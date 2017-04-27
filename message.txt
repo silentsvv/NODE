@@ -1,0 +1,717 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="//hm.baidu.com/hm.js?4941f2298273634934f789da00bbabe0"></script>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="baidu-site-verification" content="lQ0u9K4mhFheMSYS" />
+<meta http-equiv="mobile-agent" content="format=html5;url=http://tu.duowan.cn/" />
+<script id="_hiido_internal_script_id_" src="http://hdjs.hiido.com/hiido_internal.js?siteid=tu@duowan"></script><script>
+(function() {
+	if (/Android|webOS|iPhone|Windows Phone|iPod|BlackBerry|SymbianOS/i.test(navigator.userAgent) &amp;&amp; !/[\?&amp;]pc(?:[=&amp;].*|$)/.test(window.location.href)) {
+		var matched = location.href.match(/(.+tu\.duowan)\.com(.+gallery\/\d+\.html)/);
+		if (matched) {
+			location.href = matched[1] + ".cn" + matched[2];
+		}else if(matched = location.href.match(/(.+tu\.duowan)\.com.+tag\/(\d+)\.html/)){
+			//location.href=matched[1] + "/index.php?r=show/mobile&amp;tag=" + matched[2];
+			location.href = matched[1] + ".cn/tag/" + matched[2] + ".html";
+		}else if(location.href.match(/.+tu\.duowan\.com\/tu/)){
+			location.href="http://tu.duowan.cn/";
+		}else if(matched = location.href.match(/(.+tu\.duowan\.com)\/m\/(\w+)/)){
+			location.href='http://tu.duowan.cn/';
+		}
+	}
+	
+	function matchOtherTag(){
+		var tag = 0;
+		if(!/tu\.duowan\.com\/m/.test(window.location.href)) return;
+		
+		if( /m\/xemh/.test(window.location.href) ){
+			tag = 4897;	
+		}else if(/m\/bzmh/.test(window.location.href)){
+			tag = 10607;	
+		}else if(/m\/nhmh/.test(window.location.href)){
+			tag = 5150;		
+		}else if(/m\/jiong/.test(window.location.href)){
+			tag = 37;	
+		}else if(/m\/zkw/.test(window.location.href)){
+			tag = 6314;	
+		}else if(/m\/tucao/.test(window.location.href)){
+			tag = 15203;	
+		}else if(/m\/bxgif/.test(window.location.href)){
+			tag = 9031;	
+		}else if(/m\/meinv/.test(window.location.href)){
+			tag = 32;		
+		}else if(/m\/fzl/.test(window.location.href)){
+			tag = 15787;	
+		}else if(/m\/gaoxiao/.test(window.location.href)){
+			tag = 56;	
+		}else if(/m\/bizhi/.test(window.location.href)){
+			tag = 27462;	
+		}
+		if(tag == 0) return;
+		
+		location.href="http://tu.duowan.com/index.php?r=show/mobile&amp;tag="+tag;
+		
+	}
+})();
+</script>
+<link rel="stylesheet" type="text/css" href="http://tu.duowan.com/images/reset.css?v=3911" />
+<link rel="stylesheet" type="text/css" href="http://tu.duowan.com/images/navbar.css?v=391120121203" />
+<link rel="stylesheet" type="text/css" href="http://tu.duowan.com/images/global.css?v=391120141009" />
+<link rel="stylesheet" type="text/css" href="http://tu.duowan.com/images/update.css?v=391120160311" />
+<title>多玩图库_搞笑图片_美女图片_搞笑动态图片大全</title>
+<meta name="keywords" content="图片,cos,gif,段子,吐槽,冷笑话,动态图,美女图,明星图,cosplay,美女图片,搞笑图片,明星图片,暴走漫画,搞笑漫画,最搞笑图片,最新搞笑图片,搞笑的图片大全" />
+<meta name="description" content="多玩图库是目前国内最大游戏图片网站，为玩家提供各类游戏好看的图片、非主流图片，搞笑图片等，看图片上多玩图库!" />
+
+<script type="text/javascript">
+_hiido_wid=["_19cda8a"];
+</script><script src="http://assets.dwstatic.com/b=common/js&amp;f=jquery-1.10.2.min.js,jquery-migrate-1.2.1.min.js,jquery.masonry-2.0.110526.min.js,jquery.lazyload.js,udb.v1.0.js,dww3.min.js&amp;20131020"></script>
+
+<script>
+seajs.use("jquery",function($){$(document.body).on('click','a[href="#"],a[href^="javascript:"]',function(e){e.preventDefault();});});
+</script>
+<link href="http://res.udb.duowan.com/lgn/css/oauth/udbsdk/proxy/udbsdkproxy.min.css" rel="stylesheet" type="text/css" /></head>
+<body>
+
+
+<div id="layout" style="width: 1000px;">
+	<script>
+$(function(){
+  var msie6 = $.browser == 'msie' &amp;&amp; $.browser.version &lt; 7;
+  if (!msie6){
+    $(window).scroll(function(event){
+      var y = $(this).scrollTop();
+      if(y &gt;= 55){
+        $('#header').addClass('fixed');
+      }else{
+        $('#header').removeClass('fixed');
+      }
+    });
+  }
+});
+</script>
+<div id="header">
+	<div id="site-nav">
+			<h1 class="logo">
+				<a href="http://tu.duowan.com" title="多玩图库"></a>
+			</h1>
+			<div class="nav">
+				<ul>
+								
+					<li class="subnav"><a href="http://www.duowan.com" target="_blank">多玩首页</a></li>
+					<li class="subnav"><a href="http://tu.duowan.com">多玩图库</a></li>
+										<li><a href="http://video.duowan.com/" target="_blank">多玩视频</a></li>
+										
+										<li class="subnav">
+						<a class="arrow" href="#" onclick="return false;">热门频道</a>
+						<ul style="display: none;" class="dropdown clearfix">
+														<li>
+								<a href="http://tu.duowan.com/tu">主站</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/lol">英雄联盟</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/DNF">DNF</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/wow">魔兽世界</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/newgame">新游戏</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/jx3">剑网三</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/dn">龙之谷</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/tv">TV</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/psp">PSP</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/wot">坦克世界</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/mm">多玩软妹</a>
+							</li>
+														
+						</ul>
+					</li>
+										<li class="subnav"><a href="#" onclick="return false;">投诉邮箱：banquan@yy.com</a></li>
+				</ul>
+			</div>
+			
+			<div class="search">
+				<!--  
+				<div class="quick-menu" style="display:block">
+					<ul>
+						<li class="subnav">
+						<a href="javascript:;"onClick="document.getElementById('logindiv').submit()" class="login btn-login">安全登录</a>
+						</li>
+					</ul>
+				</div>
+				-->
+				<form method="get" target="_blank" action="http://tu.duowan.com/search.html">
+
+				<input baidusug="1" x-webkit-speech="" size="30" name="word" id="input" autocomplete="on" onfocus="javascript:if(this.value=='请输入搜索词')this.value='';" value="请输入搜索词" type="text" />
+
+				<button type="submit">搜索</button>
+                </form>
+			</div>
+
+		</div>
+		<div id="subnav_pk">
+			<ul>
+										<li><a href="http://tu.duowan.com/tu" target="_blank">图库首页</a></li>
+							<li><a href="http://tu.duowan.com/tag/5037.html" target="_blank">今日囧图</a></li>
+							<li><a href="http://tu.duowan.com/m/bxgif" target="_blank">搞笑gif</a></li>
+							<li><a href="http://tu.duowan.com/m/meinv" target="_blank">美女图片</a></li>
+							<li><a href="http://tu.duowan.com/m/bizhi" target="_blank">手机壁纸</a></li>
+							<li><a href="http://tu.duowan.com/m/tucao" target="_blank">吐槽囧图</a></li>
+							<li><a href="http://tu.duowan.com/tag/23515.html" target="_blank">冷知识</a></li>
+							<li><a href="http://tu.duowan.com/tag/25047.html" target="_blank">冷笑话</a></li>
+												<li><a href="http://tu.duowan.com/images/tu_yy/index.html" target="_blank">快速浏览</a></li>
+						<li><a href="http://video.duowan.com/yule/guichu.html" target="_blank">鬼畜<em class="hot-video"></em></a></li>
+			</ul>
+		</div>
+	
+</div>
+<script>
+	$(function(){
+		$('#site-nav').find('.subnav').hover(function(){
+			$(this).addClass('hover');
+			$(this).find('.dropdown').show();
+		},function(){
+			$(this).removeClass('hover');
+			$(this).find('.dropdown').hide();
+		});
+		$('#subnav_pk').find('.subnav').hover(function(){
+			$(this).addClass('hover');
+			$(this).find('.dropdown').show();
+		},function(){
+			$(this).removeClass('hover');
+			$(this).find('.dropdown').hide();
+		});
+	});
+</script>
+
+
+		
+	<style>
+#content .i-list{overflow:hidden; padding-top: 6px;margin-top: -6px;}
+#pic-list{margin:0 auto;}
+</style>
+<!--
+<div id="nav">
+		 
+	<div class="fl pll"><strong>热门频道</strong><a href="http://tu.duowan.com/images/tu_yy/index.html">快速浏览<i class="icon-new"></i></a>|<a href="http://tu.duowan.com/tu">游戏之外</a>|<a href="http://tu.duowan.com/wow">魔兽世界</a>|<a href="http://tu.duowan.com/lol">英雄联盟</a>|<a href="http://tu.duowan.com/dnf">DNF</a>|<a href="http://tu.duowan.com/newgame">新游</a>|<a href="http://tu.duowan.com/psp">PSP</a>|<a href="http://tu.duowan.com/pc">单机</a>|<a href="http://tu.duowan.com/tv">TV</a>|<a href="http://tu.duowan.com/dn">龙之谷</a>|<a href="http://tu.duowan.com/xyq">梦幻西游</a>|<a href="http://tu.duowan.com/bns">剑灵</a></div>
+	
+		<div class="fr mrl">
+			</div>
+</div>
+-->
+<div id="content" class="clearfix">
+	<div class="i-list">
+		<ul class="pic-list masonry" id="pic-list" style="width: 959px; position: relative; height: 2550px;">
+		<li class="tags box masonry-brick" style="position: absolute; left: 0px; top: 0px;">
+		<!-- 段子手推广 begin -->
+		
+        	<div class="popularize">
+			<div class="popularize__banner"></div>
+			<div class="popularize__qr-code">
+				<img src="http://tu.duowan.com/images/qrcode210.png?v=20150521" alt="二维码" />
+				<p>扫描二维码，手机看囧图</p>
+			</div>
+			<!--  
+			<div class="popularize__download">
+				<div class="popularize__download-item clearfix">
+					<div class="fl popularize__android">Android手机</div>
+					<a href="http://duanzi.duowan.com/index.php?r=channel/download&logo=tuku&os=android" class="fr popularize__btn--green">下载</a>
+				</div>
+				<div class="popularize__download-item clearfix">
+					<div class="fl popularize__ios">iPhone手机</div>
+					<a href="http://duanzi.duowan.com/index.php?r=channel/download&logo=tuku&os=ios" class="fr popularize__btn--blue" target="blank">下载</a>
+				</div>
+				<iframe frameborder="0" scrolling="no" allowtransparency="true" src="http://www.5253.com/article/pureDetails.do?articleId=13865"></iframe>
+				<p class="popularize__download-txt">输入手机号码，直接下载(短信免费)</p>
+			</div>
+			<div class="popularize__follow">
+				<div class="popularize__follow-item">
+					<img src="http://tu.duowan.com/images/duanzi_qrcode.png" alt="段子手微信公众号">
+					<p>手机扫一扫</p>
+					<p>关注段子手微信公众号</p>
+				</div>
+				<a href="http://weibo.com/dwdzs" class="popularize__follow-item">
+					<img class="popularize__weibo" src="http://tu.duowan.com/images/popularize-weibo.jpg" alt="段子手新浪微博">
+					<p>关注段子手新浪微博</p>
+				</a>
+			</div>
+			-->
+		</div>
+		
+		<!-- 段子手推广 end -->
+		<div class="popularize">
+			<a href="http://zhuomian.baidu.com/hd/gm/?sid=10003695" target="_blank"><img src="http://tu.duowan.com/images/newgane_banner.jpg?v=20160518" /></a>
+		</div>
+		<div class="tags-content"><h3>热门标签</h3><div class="hot"><a href="http://tu.duowan.com/tag/11050.html">专题</a><a href="http://tu.duowan.com/m/gaoxiao">每日囧图</a><a href="http://tu.duowan.com/m/bxgif">爆笑gif</a><a href="http://tu.duowan.com/m/tucao">吐槽囧图</a><a href="http://tu.duowan.com/tag/25343.html">多玩洋葱</a><a href="http://tu.duowan.com/tag/23610.html">段子精选</a><a href="http://tu.duowan.com/tag/23268.html">无品新闻</a><a href="http://tu.duowan.com/m/meinv">美女</a><a href="http://tu.duowan.com/tag/41.html">COS</a><a href="http://tu.duowan.com/tag/20721.html">冷知识</a><a href="http://tu.duowan.com/tag/23586.html">神回复</a><a href="http://tu.duowan.com/tag/5131.html">萌宠</a><a href="http://tu.duowan.com/tag/7177.html">明星囧图</a><a href="http://tu.duowan.com/tag/26513.html">组图</a><a href="http://tu.duowan.com/tag/27633.html">2016ChinaJoy</a></div></div></li>							<li class="box masonry-brick" style="position: absolute; top: 0px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">242条评论</span><span class="fr">50张</span></span>
+			<a href="http://tu.duowan.com/gallery/133558.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/38/FE/38fe48c3a3047a20fb010f670a8a3023723.jpg" height="244" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133558.html" target="_blank">全球搞笑GIF图第1846弹：奶子是坏文明！！要破坏掉！！</a> 3小时前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 0px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">634条评论</span><span class="fr">40张</span></span>
+			<a href="http://tu.duowan.com/gallery/133538.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/E5/F4/e5f42b83d32b661578e825ef60338eb28456.jpg" height="208" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133538.html" target="_blank">吐槽囧图集第1085弹：这位同学你居然在老师面前公然翻墙！</a> 10小时前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 0px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">28条评论</span><span class="fr">12张</span></span>
+			<a href="http://tu.duowan.com/gallery/133532.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/5D/72/3dcd59a1764b51e6cad4154ec256c904.jpg" height="292" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133532.html" target="_blank">缘之空 春日野穹兔女郎cosplay</a> 20小时前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 318px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">55条评论</span><span class="fr">15张</span></span>
+			<a href="http://tu.duowan.com/gallery/133531.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/4F/49/578b937c976466d828b6966fc9267853.jpg" height="129" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133531.html" target="_blank">世界上美到让你不相信真实存在的仙境景点</a> 20小时前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 354px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">19条评论</span><span class="fr">10张</span></span>
+			<a href="http://tu.duowan.com/gallery/133530.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/E7/46/63835c52e94e60e379302a931fe910fc.jpg" height="126" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133530.html" target="_blank">史上最萌聚会 根本是名为柴犬的暴力行为啊啊啊</a> 20小时前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 384px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">4条评论</span><span class="fr">12张</span></span>
+			<a href="http://tu.duowan.com/gallery/133529.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/05/7B/03aa692ee055704e3e001c1454da09ce.jpg" height="195" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133529.html" target="_blank">龙猫、史奴比、小熊维尼 都跟梵高的星空相遇了！</a> 21小时前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 539px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">97条评论</span><span class="fr">20张</span></span>
+			<a href="http://tu.duowan.com/gallery/133528.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/B4/FF/286abd9ebfb3973183a5caf743b4d406.jpg" height="129" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133528.html" target="_blank">20只上帝忘了上色的苍白神兽 每一只都美到头皮发麻！</a> 21小时前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 572px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">705条评论</span><span class="fr">50张</span></span>
+			<a href="http://tu.duowan.com/gallery/133527.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/7D/CE/801fb0c23441bf14d14adae41e15d4e0.jpg" height="243" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133527.html" target="_blank">今日囧图第1960期：男人自拍的目的一般只有一个</a> 22小时前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 642px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">804条评论</span><span class="fr">50张</span></span>
+			<a href="http://tu.duowan.com/gallery/133523.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/8B/68/8b68ddb6afc999eb218cb547f67ca7fa6626.jpg" height="166" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133523.html" target="_blank">【发错车重发一次】全球搞笑GIF图第1845弹：学生在课堂上用手提电脑看毛片，结果发现耳机没插上……太尴尬啦</a> 1天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 671px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">44条评论</span><span class="fr">35张</span></span>
+			<a href="http://www.duowan.com/news/357061776663.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/A1/DE/a1de35eeedcd30308b1dd808e3c432e96546.jpg" height="169" /></a>
+			<em><a href="http://www.duowan.com/news/357061776663.html" target="_blank">轻松3分钟：为了关注量，居然连亲弟弟都掰弯了！</a> 1天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 778px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">888条评论</span><span class="fr">50张</span></span>
+			<a href="http://tu.duowan.com/gallery/133511.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/86/D7/09d2f39db3c87e9b586179a9517875db.jpg" height="130" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133511.html" target="_blank">今日囧图第1959期：那一年，《速度与激情》的发型师还是有活干的</a> 1天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 907px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">59条评论</span><span class="fr">31张</span></span>
+			<a href="http://tu.duowan.com/gallery/133510.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/C9/F7/ef8f5eaee689ae3cc034eadf8b472f23.jpg" height="291" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133510.html" target="_blank">质感到气质的还原!大师级CosPlay赏</a> 1天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 932px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">17条评论</span><span class="fr">11张</span></span>
+			<a href="http://tu.duowan.com/gallery/133509.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/71/00/011fc77976f6925cbb75eed6aea154ba.jpg" height="195" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133509.html" target="_blank">生活知识如何拯救荷叶边领口 不用熨斗也能完成的妙招是？</a> 1天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 936px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">54条评论</span><span class="fr">12张</span></span>
+			<a href="http://tu.duowan.com/gallery/133508.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/25/98/d6cb5955c0a0256fd3d508047d6f0612.jpg" height="140" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133508.html" target="_blank">让人无法喜欢的动漫宠物 高人气的背后有些负面意见也在所难免</a> 1天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1018px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">46条评论</span><span class="fr">11张</span></span>
+			<a href="http://tu.duowan.com/gallery/133507.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/95/CF/a419f793ee37cc9134c603d41f30ab9f.jpg" height="259" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133507.html" target="_blank">来自人性的创意设计 趴兔　以图示意是最简单的方法</a> 1天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1186px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">34条评论</span><span class="fr">11张</span></span>
+			<a href="http://tu.duowan.com/gallery/133506.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/76/7B/4cbed34a015f8b6ea959b77398d81847.jpg" height="119" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133506.html" target="_blank">觉得忧郁时可以做这9件事 希望大家都能开心起来</a> 1天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1237px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">743条评论</span><span class="fr">51张</span></span>
+			<a href="http://tu.duowan.com/gallery/133505.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/A5/14/a51451e1f7c0983f909ee2d5537042888973.jpg" height="226" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133505.html" target="_blank">全球搞笑GIF图第1844弹：少侠，你体内有至阳至阴两股真气在涌动，老衲先帮你打通任督二脉</a> 2天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1290px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">59条评论</span><span class="fr">11张</span></span>
+			<a href="http://tu.duowan.com/gallery/133486.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/4A/01/0ced1436a4a5d7c3954537cae5c68800.jpg" height="141" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133486.html" target="_blank">最强エロ日剧Top10 原来那么多突破连续剧尺度的过激演出</a> 2天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1369px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">15条评论</span><span class="fr">9张</span></span>
+			<a href="http://tu.duowan.com/gallery/133485.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/6C/94/c2df7c022534ead32ada091d412da21e.jpg" height="130" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133485.html" target="_blank">这个萌你把持不住！LOL甜心安妮Cosplay</a> 2天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1397px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">35条评论</span><span class="fr">13张</span></span>
+			<a href="http://tu.duowan.com/gallery/133484.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/4A/E7/b4a146e35751d2e48305f613deb547db.jpg" height="146" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133484.html" target="_blank">遇见跟自己长得一模一样的陌生人 你们真的不是爹娘出去偷生的吗？</a> 2天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1541px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">152条评论</span><span class="fr">17张</span></span>
+			<a href="http://tu.duowan.com/gallery/133483.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/6B/FE/95163360e0e13652d796240897e8ba90.jpg" height="237" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133483.html" target="_blank">世界上最贵的原料 比钻石黄金还贵的物品是？</a> 2天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1591px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">34条评论</span><span class="fr">18张</span></span>
+			<a href="http://tu.duowan.com/gallery/133482.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/62/59/74864b30ddd1df6740f29b6d2ce7ee38.jpg" height="201" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133482.html" target="_blank">喵喵汪汪超治癒失败图 别人的失败就是我的快乐</a> 2天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1591px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">847条评论</span><span class="fr">50张</span></span>
+			<a href="http://tu.duowan.com/gallery/133481.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/D4/4E/6b1f013cf4b03256e60ed11e148aef12.jpg" height="270" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133481.html" target="_blank">今日囧图第1958期：有人和我说想要烤肉雷姆小姐姐？那就满足你们的要求。</a> 2天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1653px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">229条评论</span><span class="fr">16张</span></span>
+			<a href="http://tu.duowan.com/gallery/133480.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/A1/66/a1663706890408bb77f5bd169f5187d18093.jpg" height="244" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133480.html" target="_blank">十万个冷知识第362弹</a> 3天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1870px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">632条评论</span><span class="fr">42张</span></span>
+			<a href="http://tu.duowan.com/gallery/133475.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/BA/EF/baef09fa419bd591cf2a0420ad999a9f2866.jpg" height="202" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133475.html" target="_blank">吐槽囧图集第1084弹：女司机你这样乱发车牌是违法的！</a> 3天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1884px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">65条评论</span><span class="fr">17张</span></span>
+			<a href="http://tu.duowan.com/gallery/133473.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/79/84/0cca610869497be299a6eb66f3a63a6a.jpg" height="292" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133473.html" target="_blank">约会大作战时崎狂三喵睡裙Cosplay</a> 3天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1971px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">32条评论</span><span class="fr">23张</span></span>
+			<a href="http://tu.duowan.com/gallery/133472.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/64/43/e948601957c2f1f57f3e1be0803667d8.jpg" height="146" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133472.html" target="_blank">戏剧化的猫咪 表情如此夸张你们有事吗</a> 3天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 1971px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">32条评论</span><span class="fr">12张</span></span>
+			<a href="http://tu.duowan.com/gallery/133471.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/59/62/e73c7931066d5b02004f943de923c79a.jpg" height="136" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133471.html" target="_blank">林中小屋这部电影，几乎致敬了美国所有的经典恐怖电影</a> 3天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 2164px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">19条评论</span><span class="fr">13张</span></span>
+			<a href="http://tu.duowan.com/gallery/133469.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/D1/3F/1abc12615f243cba68ae2ba78a2e33ed.jpg" height="260" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133469.html" target="_blank">创意熊出没注意 在加拿大这方面的名产应该很好买吧？</a> 3天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 2199px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">12条评论</span><span class="fr">27张</span></span>
+			<a href="http://tu.duowan.com/gallery/133468.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/8A/6A/312c6776a89deb7e60c1d8508510fd20.jpg" height="259" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133468.html" target="_blank">被罐头焗豆淹没的日常生活 豆子越看越让人失去食慾</a> 3天前上传</em></li>
+			</ul>
+			<div id="loading" style="text-align:center;display:none;"><img src="http://tu.duowan.com/images/loading.gif?v=3911" width="32" height="32" /></div>
+	</div>
+<script>
+baseUrl = 'http://tu.duowan.com';
+typeid = 0;
+addhot = 1;
+
+</script>
+		<script type="text/javascript">
+		(function($) {
+			var loadurl = 'http://tu.duowan.com/tu', loaded = false, offset = 30, sTimer;
+			var order = 'created';
+			var MIN_WIN_WIDTH = 1000, ITEM_WIDTH = 236, MARGIN = 15;
+			var jWindow = $(window), jLayout = $("#layout"), jPicList = $('#pic-list');
+			var jLoading = $('#loading');
+			function adjust() {
+				var cw = Math.max(jWindow.width(), MIN_WIN_WIDTH);
+				jLayout.width(cw);
+				jPicList.width(Math.floor(cw / ITEM_WIDTH) * ITEM_WIDTH + MARGIN);
+			}
+			function loadMore() {
+				if (loaded == 1) return;
+				jLoading.show();
+				$.getJSON(loadurl, { 'offset': offset, 'order': order, math: Math.random() }, function(json){
+					if('undefined' == json || json.enabled ==0){
+						loaded = 1;
+					}else{
+						var options = jPicList.data("masonry").options, bakAnimated = options.isAnimated;
+						options.isAnimated = false;
+						jPicList.append(json.html).masonry("reload");
+						offset = json.offset;
+						options.isAnimated = bakAnimated;
+											}
+					tagShow();
+					jLoading.hide();
+				});
+			}
+			function tagShow(){
+				$('#pic-list').masonry({
+					itemSelector: '.box',
+					columnWidth: ITEM_WIDTH,
+					isAnimated: this.XMLHttpRequest &amp;&amp; !("opacity" in document.body.style) ? false : true
+				});
+				$(".pic-list li:not(.tags)").hover(function(){
+					$(this).addClass("ding");
+				},function(){
+					$(this).removeClass("ding");
+				});
+			}
+			jWindow.resize(adjust);
+			adjust();
+			tagShow();
+			$(window).scroll(function scrollHandler(){
+				clearTimeout(sTimer);
+				sTimer = setTimeout(function() {
+					if(loaded == 1){$(window).unbind("scroll", scrollHandler);}
+					var c=document.documentElement.clientHeight || document.body.clientHeight, t=$(document).scrollTop();
+					if(t+c &gt;= jPicList.offset().top+jPicList.height()){loadMore();}
+				}, 100);
+			});
+					})(jQuery);
+		</script>
+<script type="text/javascript" src="http://tu.duowan.com/images/boomerang.js"></script>
+<script type="text/javascript">
+      BOOMR.init({ beacon_url: "https://idcspeed.duowan.com/udb/login", random_num: 2,remote_ip:"183.61.6.180",site_domain:"tu.duowan.com", BW: { base_url: "http://tu.duowan.com/images/yw_speed.gif" } });
+ </script>
+<script>
+	if(/from=fanhe/.test(window.location.href)){
+		(function(){
+			var img = new Image();
+			img.src = "http://clickstats.duowan.com/index.php?r=stats/index&amp;event=fanhe_app";
+			img = null;
+		})()
+	}
+</script>
+</div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.duowan.com/assets/js/duowanFooter.js" charset="utf-8"></script><style>.dwCommonFooter {clear:both;width:100%;margin:0 auto;padding:25px 0;background: #222;color: #666;font-size:12px;}.dwCommonFooter img{width:auto}.dwCommonFooter__split {opacity: .6;}.dwCommonFooter__row {margin:0 auto 8px;text-align:center;line-height:1;}.dwCommonFooter__row p {margin-bottom:8px;}.dwCommonFooter a {margin:0 5px;color: #666;}.dwCommonFooter a:hover {color: #8e8e8e;}.dwCommonFooter__highlight {color:#F40;}.dwCommonFooter__row--approve {padding-top: 5px;margin-bottom: 38px;}.dwCommonFooter__row--approve i, .dwCommonFooter__row--logo a {display:inline-block;*zoom:1;*display:inline;background-image: url("http://assets.dwstatic.com/common/img/footer-sprite.png?20151231");background-repeat:no-repeat;}.dwCommonFooter__row--approve i {vertical-align: -4px;margin-right: 5px;margin-left: 12px;}.dwCommonFooter__row--approve .approveIcon1 {width: 20px; height: 20px; background-position: -0px -92px;}.dwCommonFooter__row--approve .approveIcon2 {width: 16px; height: 20px; background-position: -24px -92px;}.dwCommonFooter__row--approve .approveIcon3 {width: 20px; height: 20px; background-position: -44px -92px;}.dwCommonFooter__row--approve .approveIcon4 {width: 18px; height: 18px; background-position: -92px -92px;}.dwCommonFooter__row--approve .approveIcon5 {width: 20px; height: 20px; background-position: -68px -92px;}.dwCommonFooter__row--approve .approveIcon6 {width: 20px; height: 17px; background-position: -114px -92px;}.dwCommonFooter__row--logo a {margin: 0 20px;font-size: 0;line-height:0;vertical-align: top;overflow: hidden;}.dwCommonFooter__logoSplit {height: 34px;width: 1px; margin-top: 8px;line-height: 34px;overflow: hidden;display:inline-block;*zoom:1;*display:inline;vertical-align: top;background-color: #3d3d3d;}.dwCommonFooter__huanju {width: 115px; height: 42px; margin-top: 2px; background-position: -0px -0px;}.dwCommonFooter__huyu {width: 166px; height: 41px; background-position: -119px -0px;}.dwCommonFooter__row--logo .dwCommonFooter__huanju {margin-top: 2px;}.dwCommonFooter--white {background: #fff;color: #999;}.dwCommonFooter--white a {color: #999;}.dwCommonFooter--white a:hover {color: #666;}.dwCommonFooter--white .dwCommonFooter__logoSplit {background-color: #ccc;}.dwCommonFooter--white .dwCommonFooter__huanju {background-position: -0px -46px;}.dwCommonFooter--white .dwCommonFooter__huyu {background-position: -119px -45px;}</style>
+<div class="dwCommonFooter"><div class="dwCommonFooter__row"><a href="http://www.huanju.cn/s/introduction.html" target="_blank">关于欢聚</a><span class="dwCommonFooter__split">|</span><a href="http://hr.yy.com/" target="_blank">欢聚招聘</a><span class="dwCommonFooter__split">|</span><a href="http://www.huanju.cn/s/contact.html" target="_blank">联系欢聚</a><span class="dwCommonFooter__split">|</span><a href="http://www.huanju.cn/s/links.html" target="_blank">友情链接</a><span class="dwCommonFooter__split">|</span><a href="https://ad.duowan.com" target="_blank">自助广告投放</a><span class="dwCommonFooter__split">|</span><a href="http://www.huanju.cn/s/contact.html" target="_blank">广告热线：020-29162315</a><span class="dwCommonFooter__split">|</span><a href="http://www.yy.com/go.html#10" target="_blank">客服频道：<strong class="dwCommonFooter__highlight">10</strong></a><span class="dwCommonFooter__split">|</span><a href="http://kf.yy.com" target="_blank">YY客服中心</a><span class="dwCommonFooter__split">|</span><a href="http://www.huanju.cn/1207/m_205349693256.html" target="_blank">隐私权保护政策</a><span class="dwCommonFooter__split">|</span><a href="http://www.huanju.cn/1207/m_205353486825.html" target="_blank">版权保护投诉指引</a><span class="dwCommonFooter__split">|</span><a href="http://www.100.com" target="_blank">100教育</a></div><div class="dwCommonFooter__row"><p><span class="dwCommonFooter__txt" target="_blank">增值电信业务经营许可证</span><a href="http://assets.dwstatic.com/common/docs/B2-20050785.jpg">粤B2-20050785</a><a href="http://assets.dwstatic.com/common/docs/B2-20120129.jpg" target="_blank">B2-20120129</a><span class="dwCommonFooter__split">|</span><a href="http://assets.dwstatic.com/common/docs/1910441.jpg" target="_blank">视听许可证1910441号</a><span class="dwCommonFooter__split">|</span><a href="http://assets.dwstatic.com/common/docs/1712-302.jpg?1229" target="_blank">粤网文[2015]1712-302号</a><span class="dwCommonFooter__split">|</span> <span class="dwCommonFooter__txt">举报邮箱：dwkf@yy.com</span> <span class="dwCommonFooter__split">|</span> <span class="dwCommonFooter__txt">举报电话：020-82120010</span></p><p><a href="http://www.miitbeian.gov.cn" target="_blank">粤ICP备09075143号</a><span class="dwCommonFooter__split">|</span><a href="http://assets.dwstatic.com/common/docs/4401060100548.jpg" target="_blank">穗公网监备案证第4401060100548号</a><span class="dwCommonFooter__split">|</span><a href="http://www.gdca.gov.cn/" target="_blank">广东省通信管理局</a><span class="dwCommonFooter__split">|</span><a href="http://assets.dwstatic.com/common/docs/014.jpg" target="_blank">网络出版服务许可证</a><span class="dwCommonFooter__split">|</span><a href="http://assets.dwstatic.com/common/docs/01745.jpg" target="_blank">节目制作经营许可证</a><span class="dwCommonFooter__split">|</span><a rel="nofollow" href="javascript:void(0)"><img src="http://www.beian.gov.cn/img/ghs.png" style="vertical-align: middle" />粤公网安备 44011302000068号</a></p><p><span class="dwCommonFooter__txt">广州华多网络科技有限公司 © 2005-2017 Duowan.com 版权所有</span></p></div><div class="dwCommonFooter__row dwCommonFooter__row--approve"><a href="http://guangzhou.cyberpolice.cn/netalarm/netalarm/wangjian_index.jsp" target="_blank"><i class="approveIcon1"></i>广州网络警察报警平台</a><a href="http://210.76.65.188/newwebsite/main.jsp?id=4401&amp;adir=&amp;wy=1" target="_blank"><i class="approveIcon2"></i>公共信息安全网络监察</a><a href="http://netadreg.gzaic.gov.cn/ntmm/WebSear/WebLogoPub.aspx?logo=440106106022005041100016" target="_blank"><i class="approveIcon3"></i>工商网监红盾认证</a><a href="http://315web.duowan.com/index.jsp" target="_blank"><i class="approveIcon4"></i>消费维权服务站</a><a href="http://www.net.china.com.cn/txt/2015-01/20/content_7622927.htm" target="_blank"><i class="approveIcon5"></i>网络敲诈有偿删帖</a><a href="http://www.12377.cn/" target="_blank"><i class="approveIcon6"></i>中国互联网举报中心</a></div><div class="dwCommonFooter__row dwCommonFooter__row--logo"><a class="dwCommonFooter__huanju" href="http://www.huanju.cn/" target="_blank">欢聚时代</a></div></div>
+<script src="http://www.duowan.com/duowan.js"></script><script src="http://www.duowan.com/public/s/market_count.js"></script><script src="http://www.duowan.com/s/statistics.js"></script>
+<script src="http://pub.dwstatic.com/p/2017dw/1.1.0/common/newsPopup/newsPopup_bf33dac.js"></script>
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = '//hm.baidu.com/hm.js?4941f2298273634934f789da00bbabe0'; 
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div id="udbsdk_login" class="udbsdk_login"><div class="udbsdk_close"><a href="javascript:" onclick="UDBSDKProxy.hide_div();return false;" title="关闭" class="udbsdk_href"></a>  </div><iframe id="udbsdk_frm" class="udbsdk_frm" allowtransparency="true" src="about:blank" frameborder="0" scrolling="no"></iframe></div><div style="width:0px;height:0px;display:none;"><iframe id="udbsdk_deleteCookieFrm" src="about:blank" frameborder="0" scrolling="no" style="width:0px;height:0px;"></iframe></div><style>.dw-mini-popup{position:fixed;right:-380px;bottom:0;width:300px;height:426px;background:#fff;box-shadow:0 0 3px 0 #dcdcdc;*border:1px solid #f6f6f6;font-family:"Microsoft Yahei";z-index:9999;text-align:left}.dw-mini-popup.show{right:0}.dw-mini-popup ul{list-style:none;margin:0;padding:0}.dw-mini-popup a{text-decoration:none}.dw-mini-popup .footer-shadow{position:absolute;left:0;width:100%;bottom:0;background-color:#000;background-color:rgba(0,0,0,.8);filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=80);color:#fff;font:12px/24px Simsun;text-align:center}.dw-mini-popup .news-image{display:block;width:100%;border:0}.dw-mini-popup .news-link{position:relative;display:block;color:#333;overflow:hidden}.dw-mini-popup .dw-popup-title{height:40px;padding-left:10px;background:#e94646;overflow:hidden}.dw-popup-title .popup-title{float:left;height:100%}.dw-popup-title .dw-popup-hide{float:right;width:8px;height:40px;padding:0 10px;background:url(http://pub.dwstatic.com/p/2017dw/1.1.0/common/newsPopup/assets/popup_hide_daaa1a4.png) no-repeat center;cursor:pointer}.dw-popup-title .dw-popup-hide:hover{background-color:#ed6c6c}.dw-popup-title .web-address{float:left;cursor:pointer}.dw-popup-title .dw-popup-icon{float:left;height:40px;width:26px;background:url(http://pub.dwstatic.com/p/2017dw/1.1.0/common/newsPopup/assets/dw_mini_popup_logo_558e01d.png) no-repeat center}.dw-popup-title .popup-title .dw-name{float:left;width:60px;height:20px;background:url(http://pub.dwstatic.com/p/2017dw/1.1.0/common/newsPopup/assets/dw_big_text_1c49840.png) no-repeat center;margin:10px 5px;color:#fff}.dw-popup-title .popup-title .dw-popup-tip{float:left;margin-top:18px;*margin-top:16px;font:12px/1 SimSun;color:#ffc0c0}.dw-mini-popup .dw-mini-popup-nav{border-bottom:1px solid #e3e3e3;background:#fafafa;font-size:14px;line-height:33px;text-align:center}.dw-mini-popup .dw-mini-popup-nav .dw-mini-nav-list{height:34px;margin:0 -30px 0 0}.dw-mini-popup .dw-mini-popup-nav .dw-mini-nav-item{display:inline-block;*display:inline;*zoom:1;margin-right:30px;cursor:pointer}.dw-mini-popup .dw-mini-popup-nav .dw-mini-nav-item.active{border-bottom:2px solid #e94646;font-weight:700;color:#e94646}.dw-mini-popup .dw-mini-popup-content{overflow:hidden}.dw-mini-news-panel{display:none}.dw-mini-news-panel.active{display:block}.popup-vital-news{padding:10px 10px 0}.popup-vital-news .big-news-wrap{width:278px;height:156px;position:relative}.popup-vital-news .big-news-wrap .big-news{display:block;height:100%;overflow:hidden}.popup-vital-news .big-news-wrap .footer-shadow{height:24px}.popup-vital-news .main-news-wrap{overflow:hidden;margin-top:10px}.popup-vital-news .main-news-wrap .middle-news-wrap{float:left;width:116px}.middle-news-wrap .middle-news-item{height:78px;margin-bottom:10px;overflow:hidden}.middle-news-wrap .news-link{height:100%}.middle-news-wrap .middle-news-item .footer-shadow{height:24px}.popup-vital-news .main-news-wrap .text-news-wrap{float:left;width:150px;margin-left:10px;font-size:0;color:#333;overflow:hidden}.text-news-list li{overflow:hidden;*zoom:1}.text-news-list .first-news a{font-size:14px;font-weight:700;line-height:24px;color:#e94646}.text-news-list a{display:block;height:24px;font-size:12px;line-height:24px;color:#333;overflow:hidden;text-overflow:clip;*zoom:1}.text-news-list a:hover{color:#e94646;text-decoration:underline}.text-news-list .type-news{font-family:SimSun}.text-news-list .type-news i{float:left}.text-news-list .type-news.normal i,.text-news-list .type-news.red i{width:2px;height:2px;margin:13px 5px 0 0;background-color:#f60}.text-news-list .type-news.red a{color:#e94646}.text-news-list .type-news.video i,.text-news-list .type-news.image i{width:20px;height:24px;background-color:#ff7d1a}.text-news-list .type-news.video i{background:url(http://pub.dwstatic.com/p/2017dw/1.1.0/common/newsPopup/assets/news_type_video_c0c01d2.png) no-repeat left center}.text-news-list .type-news.image i{background:url(http://pub.dwstatic.com/p/2017dw/1.1.0/common/newsPopup/assets/news_type_image_90a12e7.png) no-repeat left center}.popup-videos-wrap .dw-mini-video-list{margin-right:-10px;padding:10px 10px 0;border-bottom:1px solid #e3e3e3;font-family:Simsun;overflow:hidden}.popup-videos-wrap .dw-mini-video-item{float:left;width:134px;margin-right:10px}.popup-videos-wrap .dw-mini-video-item .play-icon{position:absolute;width:16px;height:16px;background-image:url(http://pub.dwstatic.com/p/2017dw/1.1.0/common/newsPopup/assets/play_icon_efee776.png);left:5px;top:50px}.popup-videos-wrap .news-image{height:73px}.popup-videos-wrap .news-title{margin:0;height:32px;font:12px/32px PingFang sc,"Helvetica Neue",Helvetica,Tahoma,Arial,SimSun,TW-Sung,"WenQuanYi Bitmap Song","AR PL UMing CN","AR PL UMing HK","AR PL UMing TW","AR PL UMing TW MBE",serif;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;width:100%}.popup-videos-wrap .more-news{font:12px/25px Simsun;text-align:center}.more-news .news-link{color:#333}.more-news .news-link:hover{color:#e94646}.popup-photo-gallery{font-family:Simsun}.popup-photo-gallery .big-text-news{height:38px;margin-top:3px;font-size:14px;font-weight:700;line-height:38px;text-align:center;overflow:hidden}.big-text-news .news-link{color:#e94646}.popup-photo-gallery .dw-mini-video-list{margin-right:-10px;padding:0 10px;border-bottom:1px solid #e3e3e3;overflow:hidden}.popup-photo-gallery .dw-mini-video-item{float:left;width:134px;margin-right:10px}.popup-photo-gallery .news-image{height:92px}.popup-photo-gallery .news-title{height:36px;margin:7px 0;font-size:12px;line-height:18px;overflow:hidden;width:100%}.popup-photo-gallery .more-news{font-size:12px;line-height:25px;text-align:center}.dw-mini-popup-littleboy{width:60px;height:90px;position:absolute;bottom:0;left:-52px;cursor:pointer;background:url(http://pub.dwstatic.com/p/2017dw/1.1.0/common/newsPopup/assets/dw_news_littleboy_15b83cd.png) no-repeat}.dw-mini-popup-littleboy:hover{animation:boybounce .8s 1 ease backwards}@keyframes boybounce{0%,100%,20%,50%,80%{-webkit-transform:translateY(0);transform:translateY(0)}40%{-webkit-transform:translateY(-12px);transform:translateY(-12px)}60%{-webkit-transform:translateY(-5px);transform:translateY(-5px)}}.dw-min-popup-dancer{position:fixed;width:52px;height:72px;right:-60px;bottom:50px;border:0;cursor:pointer;z-index:9999}.dw-min-popup-dancer.show{right:0}</style><div class="dw-mini-popup-wrap">
+    <div class="dw-mini-popup show">
+        <!--新闻header -->
+        <div class="dw-popup-title">
+            <div class="popup-title">
+                <a class="web-address" href="http://www.duowan.com/?wen" target="_blank">
+                    <i class="dw-popup-icon"></i>
+                    <span class="dw-name"></span>
+                </a>
+                <span class="dw-popup-tip">迷你版</span>
+            </div>
+            <span class="dw-popup-hide"></span>
+        </div>
+        <!-- 新闻header -->
+
+        <!--新闻Nav -->
+        <div class="dw-mini-popup-nav">
+            <ul class="dw-mini-nav-list">
+                <li class="dw-mini-nav-item active">
+                    要闻
+                </li>
+                <li class="dw-mini-nav-item">
+                    视频
+                </li>
+                <li class="dw-mini-nav-item">
+                    图库
+                </li>
+            </ul>
+        </div>
+        <!-- 新闻Nav -->
+
+        <!--新闻内容 -->
+        <div class="dw-mini-popup-content">
+            <div class="dw-mini-news-panel popup-vital-news active">
+                <!--大图新闻{-->
+                <div class="big-news-wrap">
+                    <a href="http://www.duowan.com/news/357217054359.html?wen" class="big-news news-link" title="《英雄联盟》家教：标价每小时1200元辅导费" target="_blank">
+                        <img src="http://s1.dwstatic.com/dwtips/A1/45/a145b45c1c0e5bab6f3a1b2fcf17dfb12594.jpg" class="news-image" />
+                        <span class="footer-shadow">《英雄联盟》家教：标价每小时1200元辅导费</span>
+                    </a>
+                </div>
+                <!--}大图新闻-->
+                <div class="main-news-wrap">
+                    <!--左侧中图新闻{-->
+                    <div class="middle-news-wrap">
+                        <ul class="middle-news-list">
+                            <li class="middle-news-item">
+                                <a href="http://video.duowan.com/play/4951027.html?wen" class="news-link" title="《天谕》动画第1集" target="_blank">
+                                    <img src="http://s1.dwstatic.com/dwtips/6C/F3/6cf307dbe577e3c386cb41fb07c4443c3957.jpg" class="news-image" />
+                                    <span class="footer-shadow">《天谕》动画第1集</span>
+                                </a>
+                            </li>
+                            <li class="middle-news-item">
+                                <a href="http://www.duowan.com/news/356718033301.html?wen" class="news-link" title="本周新游测试表" target="_blank">
+                                    <img src="http://s1.dwstatic.com/dwtips/73/D1/73d1726da614001bbc3046a338d0a4139613.jpg" class="news-image" />
+                                    <span class="footer-shadow">本周新游测试表</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--}左侧中图新闻-->
+
+                    <!--无图新闻列表{-->
+                    <div class="text-news-wrap">
+                        <ul class="text-news-list">
+                            
+                                <li class="first-news">
+                                    <a href="http://www.duowan.com/news/357212553291.html?wen" title="COD：二战正式开预售" target="_blank">
+                                        COD：二战正式开预售
+                                    </a>
+                                    
+                                </li>
+                                <li class="type-news red">
+                                    <i class="type-icon"></i>
+                                    <a href="http://www.duowan.com/news/357235951429.html?wen" title="尼尔小姐姐中文版上线" target="_blank">
+                                        尼尔小姐姐中文版上线
+                                    </a>
+                                </li>
+                                
+                                
+                                <li class="type-news normal">
+                                    <i class="type-icon"></i>
+                                    <a href="http://www.duowan.com/news/357133661043.html?wen" title="魔兽世界 国服免费3天" target="_blank">
+                                        魔兽世界 国服免费3天
+                                    </a>
+                                </li>
+                                
+                                
+                                <li class="type-news video">
+                                    <i class="type-icon"></i>
+                                    <a href="http://www.duowan.com/news/357219540980.html?wen" title="恐怖游戏《逃生2》评测" target="_blank">
+                                        恐怖游戏《逃生2》评测
+                                    </a>
+                                </li>
+                                
+                                
+                                <li class="type-news normal">
+                                    <i class="type-icon"></i>
+                                    <a href="http://www.duowan.com/news/357130671742.html?wen" title="《守望先锋》免费一个月" target="_blank">
+                                        《守望先锋》免费一个月
+                                    </a>
+                                </li>
+                                
+                                
+                                <li class="type-news red">
+                                    <i class="type-icon"></i>
+                                    <a href="http://www.duowan.com/news/356976949853.html?wen" title="他们把杨永信做进了游戏" target="_blank">
+                                        他们把杨永信做进了游戏
+                                    </a>
+                                </li>
+                                
+                                
+                                <li class="type-news red">
+                                    <i class="type-icon"></i>
+                                    <a href="http://www.duowan.com/news/357143529438.html?wen" title="《信长之野望:大志》公布" target="_blank">
+                                        《信长之野望:大志》公布
+                                    </a>
+                                </li>
+                                
+                        </ul>
+                    </div>
+                    <!--}无图新闻列表-->
+
+                </div>
+
+            </div>
+
+            <!--视频新闻{-->
+            <div class="dw-mini-news-panel popup-videos-wrap">
+                <div class="videos-wrap">
+                    <ul class="dw-mini-video-list">
+                        
+                            <li class="dw-mini-video-item">
+                                <a href="http://video.duowan.com/play/5038721.html?wen" class="news-link" title="全新本田思域" target="_blank">
+                                    <i class="play-icon"></i>
+                                    <img class="news-image" src="http://vimg.dwstatic.com/1717/5038721/9-220x124.jpg" />
+                                    <p class="news-title">
+                                        全新本田思域
+                                    </p>
+                                </a>
+                            </li>
+                            
+                            <li class="dw-mini-video-item">
+                                <a href="http://video.duowan.com/play/5038673.html?wen" class="news-link" title="任性逛车展，法拉利，迈凯伦，宾利，阿尔法罗密欧，我们只看我们喜欢的——大计划的上海车展" target="_blank">
+                                    <i class="play-icon"></i>
+                                    <img class="news-image" src="http://vimg.dwstatic.com/1717/5038673/9-220x124.jpg" />
+                                    <p class="news-title">
+                                        任性逛车展，法拉利，迈凯伦，宾利，阿尔法罗密欧，我们只看我们喜欢的——大计划的上海车展
+                                    </p>
+                                </a>
+                            </li>
+                            
+                            <li class="dw-mini-video-item">
+                                <a href="http://video.duowan.com/play/5038889.html?wen" class="news-link" title="看看海胆是怎么捕捞的，收割的，清洁处理的，还有吃的" target="_blank">
+                                    <i class="play-icon"></i>
+                                    <img class="news-image" src="http://vimg.dwstatic.com/1717/5038889/9-220x124.jpg" />
+                                    <p class="news-title">
+                                        看看海胆是怎么捕捞的，收割的，清洁处理的，还有吃的
+                                    </p>
+                                </a>
+                            </li>
+                            
+                            <li class="dw-mini-video-item">
+                                <a href="http://video.duowan.com/play/5039373.html?wen" class="news-link" title="20个不科学的雕塑！（牛顿看了想打人）" target="_blank">
+                                    <i class="play-icon"></i>
+                                    <img class="news-image" src="http://vimg.dwstatic.com/1717/5039373/9-220x124.jpg" />
+                                    <p class="news-title">
+                                        20个不科学的雕塑！（牛顿看了想打人）
+                                    </p>
+                                </a>
+                            </li>
+                            
+                            <li class="dw-mini-video-item">
+                                <a href="http://video.duowan.com/play/5039759.html?wen" class="news-link" title="5个每个人都该拥有的创意小发明，第一个太酷了！" target="_blank">
+                                    <i class="play-icon"></i>
+                                    <img class="news-image" src="http://vimg.dwstatic.com/1717/5039759/9-220x124.jpg" />
+                                    <p class="news-title">
+                                        5个每个人都该拥有的创意小发明，第一个太酷了！
+                                    </p>
+                                </a>
+                            </li>
+                            
+                            <li class="dw-mini-video-item">
+                                <a href="http://video.duowan.com/play/5041625.html?wen" class="news-link" title="小肠是人体内最长的器官所以用来打人最疼了《怪形前传》" target="_blank">
+                                    <i class="play-icon"></i>
+                                    <img class="news-image" src="http://vimg.dwstatic.com/1717/5041625/9-220x124.jpg" />
+                                    <p class="news-title">
+                                        小肠是人体内最长的器官所以用来打人最疼了《怪形前传》
+                                    </p>
+                                </a>
+                            </li>
+                            
+                    </ul>
+                </div>
+                <div class="more-news">
+                    <a href="http://video.duowan.com/yule/?wen" class="news-link" target="_blank">
+                点击查看更多&gt;
+            </a>
+                </div>
+            </div>
+            <!--}视频新闻-->
+
+            <!--图库新闻{-->
+            <div class="dw-mini-news-panel popup-photo-gallery">
+                <div class="big-text-news">
+                    <a href="http://tu.duowan.com/gallery/133467.html#p1?wen" class="news-link" title="这气球让我冒着被炸飞的危险亲自检验下！" target="_blank">
+                        这气球让我冒着被炸飞的危险亲自检验下！
+                    </a>
+                </div>
+                <div class="dw-mini-videos-wrap">
+                    <ul class="dw-mini-video-list">
+                        
+                            <li class="dw-mini-video-item">
+                                <a href="http://tu.duowan.com/gallery/133464.html#p1?wen" class="news-link" title="囧图：柯南原来是这样打发排解寂寞的" target="_blank">
+                                <img src="http://img.dwstatic.com/www/1703/353615980519/1493204328646.jpg" class="news-image" />
+                                <p class="news-title">
+                                    囧图：柯南原来是这样打发排解寂寞的
+                                </p>
+                            </a>
+                                
+                            </li><li class="dw-mini-video-item">
+                                <a href="http://tu.duowan.com/gallery/133523.html#p1?wen" class="news-link" title="搞笑GIF：课堂上看A片竟发现耳机没插好" target="_blank">
+                                <img src="http://img.dwstatic.com/www/1703/353615844938/1493204393030.gif" class="news-image" />
+                                <p class="news-title">
+                                    搞笑GIF：课堂上看A片竟发现耳机没插好
+                                </p>
+                            </a>
+                                
+                            </li><li class="dw-mini-video-item">
+                                <a href="http://tu.duowan.com/gallery/133475.html#p1?wen" class="news-link" title="吐槽：女司机你这样乱发车牌是违法的" target="_blank">
+                                <img src="http://img.dwstatic.com/www/1703/353616058915/1493023805055.jpg" class="news-image" />
+                                <p class="news-title">
+                                    吐槽：女司机你这样乱发车牌是违法的
+                                </p>
+                            </a>
+                                
+                            </li><li class="dw-mini-video-item">
+                                <a href="http://tu.duowan.com/gallery/133480.html#p1?wen" class="news-link" title="冷知识：雄性海狮居然是老阿訇！" target="_blank">
+                                <img src="http://img.dwstatic.com/www/1703/353616140715/1493204464663.jpg" class="news-image" />
+                                <p class="news-title">
+                                    冷知识：雄性海狮居然是老阿訇！
+                                </p>
+                            </a>
+                                
+                            </li>
+                    </ul>
+                </div>
+                <div class="more-news">
+                    <a href="http://tu.duowan.com/tu?wen" class="news-link" target="_blank">
+                点击查看更多&gt;
+            </a>
+                </div>
+            </div>
+            <!--}图库新闻-->
+        </div>
+
+        <!-- 新闻内容 -->
+
+        <!--招手的小矮人-->
+        <div class="dw-mini-popup-littleboy"></div>
+        <!--招手的小矮人 -->
+    </div>
+
+    <!--挥手的小矮人{-->
+    <div class="dw-min-popup-dancer ">
+        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase=" http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="52" height="72" style="display:block;">            <param name="movie" value="http://pub.dwstatic.com/p/2017dw/1.1.0/common/newsPopup/assets/finger.swf" />            <param name="allowScriptAccess" value="always" />            <param name="quality" value="high" />            <param name="wmode" value="transparent" />            <embed src="http://pub.dwstatic.com/p/2017dw/1.1.0/common/newsPopup/assets/finger.swf" quality="high" wmode="transparent" width="52" height="72" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage=" http://www.macromedia.com/go/getflashplayer" />        </object>
+    </div>
+    <!--}挥手的小矮人-->
+</div></body></html>
