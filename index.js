@@ -8,34 +8,45 @@ var driver = new webdriver.Builder()
   .build();
 
 /*function RouterPage () {
-  var title = null
-     ,imgSrc = null
-     ,link = null;
+  var router = (function(){
+    this.title = null
+    this.imgSrc = null
+    this.link = null
 
-  this.setTitle = function (newTitle) {
-    title = newTitle
-  }
+    this.setTitle = function (newTitle) {
+      title = newTitle
+    }
 
-  this.getTitle = function () {
-    return title
-  }
+    this.getTitle = function () {
+      return title
+    }
 
-  this.setImgSrc = function (newImgSrc) {
-    imgSrc = newImgSrc
-  }
+    this.setImgSrc = function (newImgSrc) {
+      imgSrc = newImgSrc
+    }
 
-  this.getImgSrc = function () {
-    return imgSrc
-  }
+    this.getImgSrc = function () {
+      return imgSrc
+    }
 
-  this.setLink = function (newLink) {
-    link = newLink
-  }
+    this.setLink = function (newLink) {
+      link = newLink
+    }
 
-  this.getLink = function () {
-    return link
-  }
+    this.getLink = function () {
+      return link
+    }
 
+    return {
+      setTitle: this.setTitle,
+      getTitle: this.getTitle,
+      setImgSrc: this.setImgSrc,
+      getImgSrc: this.getImgSrc,
+      setLink: this.setLink,
+      getLink: this.getLink
+    }
+  })() 
+  return router
 }*/
 
 function RouterPage (title,imgSrc,link) {
