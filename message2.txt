@@ -88,7 +88,7 @@ $(function(){
   }
 });
 </script>
-<div id="header">
+<div id="header" class="fixed">
 	<div id="site-nav">
 			<h1 class="logo">
 				<a href="http://tu.duowan.com" title="多玩图库"></a>
@@ -214,7 +214,7 @@ $(function(){
 -->
 <div id="content" class="clearfix">
 	<div class="i-list">
-		<ul class="pic-list masonry" id="pic-list" style="width: 959px; position: relative; height: 2524px;">
+		<ul class="pic-list masonry" id="pic-list" style="width: 959px; position: relative; height: 4947px;">
 		<li class="tags box masonry-brick" style="position: absolute; left: 0px; top: 0px;">
 		<!-- 段子手推广 begin -->
 		
@@ -282,7 +282,7 @@ $(function(){
 								<li class="box masonry-brick" style="position: absolute; top: 612px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">632条评论</span><span class="fr">50张</span></span>
 			<a href="http://tu.duowan.com/gallery/133590.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/D1/29/43d90f35b8e3d53d9398f98fa147af24.jpg" height="231" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133590.html" target="_blank">今日囧图第1964期：今天去表哥家玩，这么大人还玩洋娃娃</a> 1天前上传</em></li>
-								<li class="box masonry-brick" style="position: absolute; top: 642px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">824条评论</span><span class="fr">50张</span></span>
+								<li class="box masonry-brick" style="position: absolute; top: 669px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">824条评论</span><span class="fr">50张</span></span>
 			<a href="http://tu.duowan.com/gallery/133589.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/40/A5/5a10ead6870c0725443aa95e5faadd9f.jpg" height="261" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133589.html" target="_blank">今日囧图第1963期：哎呀上班要迟到了，边骑马边刷牙吧节省点时间吧！</a> 2天前上传</em></li>
 								<li class="box masonry-brick" style="position: absolute; top: 842px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">595条评论</span><span class="fr">30张</span></span>
@@ -294,7 +294,7 @@ $(function(){
 								<li class="box masonry-brick" style="position: absolute; top: 962px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">689条评论</span><span class="fr">50张</span></span>
 			<a href="http://tu.duowan.com/gallery/133581.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/88/68/3bfb5e677f3347386d93c9dd3718f58d.jpg" height="135" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133581.html" target="_blank">今日囧图第1962期：以柯南里的犯人小黑人为主角的漫画下月连载开始...</a> 3天前上传</em></li>
-								<li class="box masonry-brick" style="position: absolute; top: 1013px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">1015条评论</span><span class="fr">51张</span></span>
+								<li class="box masonry-brick" style="position: absolute; top: 1040px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">1015条评论</span><span class="fr">51张</span></span>
 			<a href="http://tu.duowan.com/gallery/133576.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/61/33/613323a4ba85983d1c7dbfdfa4f68f3b4229.jpg" height="163" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133576.html" target="_blank">全球搞笑GIF图第1847弹：脑补太多了！一瞬间我仿佛看到了假的百合情节！</a> 4天前上传</em></li>
 								<li class="box masonry-brick" style="position: absolute; top: 1147px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">48条评论</span><span class="fr">9张</span></span>
@@ -306,7 +306,7 @@ $(function(){
 								<li class="box masonry-brick" style="position: absolute; top: 1207px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">8条评论</span><span class="fr">10张</span></span>
 			<a href="http://tu.duowan.com/gallery/133569.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/B9/05/2ef9f2b17292aa6bc3864e7b2e108b92.jpg" height="129" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133569.html" target="_blank">每一张美照后都有一个伟大的男人 女友：要帮我拍漂亮一点喔～</a> 4天前上传</em></li>
-								<li class="box masonry-brick" style="position: absolute; top: 1286px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">1条评论</span><span class="fr">25张</span></span>
+								<li class="box masonry-brick" style="position: absolute; top: 1313px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">1条评论</span><span class="fr">25张</span></span>
 			<a href="http://tu.duowan.com/gallery/133568.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/95/C5/885ccb455324d0507cbd6a1839cae735.jpg" height="195" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133568.html" target="_blank">寒冷国度的艺术家们 都在庆祝春暖花开了</a> 4天前上传</em></li>
 								<li class="box masonry-brick" style="position: absolute; top: 1424px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">34条评论</span><span class="fr">8张</span></span>
@@ -318,7 +318,7 @@ $(function(){
 								<li class="box masonry-brick" style="position: absolute; top: 1531px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">813条评论</span><span class="fr">50张</span></span>
 			<a href="http://tu.duowan.com/gallery/133561.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/C5/CB/ee90137fee798631a85d340c4cd72b1a.jpg" height="355" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133561.html" target="_blank">今日囧图第1961期：男性朋友如何避免成为秃顶 ，简直太实用了！</a> 4天前上传</em></li>
-								<li class="box masonry-brick" style="position: absolute; top: 1573px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">897条评论</span><span class="fr">50张</span></span>
+								<li class="box masonry-brick" style="position: absolute; top: 1600px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">897条评论</span><span class="fr">50张</span></span>
 			<a href="http://tu.duowan.com/gallery/133558.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/38/FE/38fe48c3a3047a20fb010f670a8a3023723.jpg" height="244" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133558.html" target="_blank">全球搞笑GIF图第1846弹：奶子是坏文明！！要破坏掉！！</a> 5天前上传</em></li>
 								<li class="box masonry-brick" style="position: absolute; top: 1727px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">883条评论</span><span class="fr">40张</span></span>
@@ -327,7 +327,7 @@ $(function(){
 								<li class="box masonry-brick" style="position: absolute; top: 1805px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">37条评论</span><span class="fr">12张</span></span>
 			<a href="http://tu.duowan.com/gallery/133532.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/5D/72/3dcd59a1764b51e6cad4154ec256c904.jpg" height="292" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133532.html" target="_blank">缘之空 春日野穹兔女郎cosplay</a> 5天前上传</em></li>
-								<li class="box masonry-brick" style="position: absolute; top: 1927px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">69条评论</span><span class="fr">15张</span></span>
+								<li class="box masonry-brick" style="position: absolute; top: 1954px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">69条评论</span><span class="fr">15张</span></span>
 			<a href="http://tu.duowan.com/gallery/133531.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/4F/49/578b937c976466d828b6966fc9267853.jpg" height="129" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133531.html" target="_blank">世界上美到让你不相信真实存在的仙境景点</a> 5天前上传</em></li>
 								<li class="box masonry-brick" style="position: absolute; top: 1996px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">20条评论</span><span class="fr">10张</span></span>
@@ -336,7 +336,7 @@ $(function(){
 								<li class="box masonry-brick" style="position: absolute; top: 2045px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">8条评论</span><span class="fr">12张</span></span>
 			<a href="http://tu.duowan.com/gallery/133529.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/05/7B/03aa692ee055704e3e001c1454da09ce.jpg" height="195" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133529.html" target="_blank">龙猫、史奴比、小熊维尼 都跟梵高的星空相遇了！</a> 5天前上传</em></li>
-								<li class="box masonry-brick" style="position: absolute; top: 2148px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">124条评论</span><span class="fr">20张</span></span>
+								<li class="box masonry-brick" style="position: absolute; top: 2175px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">124条评论</span><span class="fr">20张</span></span>
 			<a href="http://tu.duowan.com/gallery/133528.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/B4/FF/286abd9ebfb3973183a5caf743b4d406.jpg" height="129" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133528.html" target="_blank">20只上帝忘了上色的苍白神兽 每一只都美到头皮发麻！</a> 5天前上传</em></li>
 								<li class="box masonry-brick" style="position: absolute; top: 2189px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">861条评论</span><span class="fr">50张</span></span>
@@ -345,8 +345,98 @@ $(function(){
 								<li class="box masonry-brick" style="position: absolute; top: 2214px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">905条评论</span><span class="fr">50张</span></span>
 			<a href="http://tu.duowan.com/gallery/133523.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/8B/68/8b68ddb6afc999eb218cb547f67ca7fa6626.jpg" height="166" /></a>
 			<em><a href="http://tu.duowan.com/gallery/133523.html" target="_blank">【发错车重发一次】全球搞笑GIF图第1845弹：学生在课堂上用手提电脑看毛片，结果发现耳机没插上……太尴尬啦</a> 6天前上传</em></li>
-			</ul>
-			<div id="loading" style="text-align:center;display:none;"><img src="http://tu.duowan.com/images/loading.gif?v=3911" width="32" height="32" /></div>
+										<li class="box masonry-brick" style="position: absolute; top: 2332px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">53条评论</span><span class="fr">35张</span></span>
+			<a href="http://www.duowan.com/news/357061776663.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/A1/DE/a1de35eeedcd30308b1dd808e3c432e96546.jpg" height="169" /></a>
+			<em><a href="http://www.duowan.com/news/357061776663.html" target="_blank">轻松3分钟：为了关注量，居然连亲弟弟都掰弯了！</a> 6天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 2396px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">983条评论</span><span class="fr">50张</span></span>
+			<a href="http://tu.duowan.com/gallery/133511.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/86/D7/09d2f39db3c87e9b586179a9517875db.jpg" height="130" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133511.html" target="_blank">今日囧图第1959期：那一年，《速度与激情》的发型师还是有活干的</a> 6天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 2508px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">67条评论</span><span class="fr">31张</span></span>
+			<a href="http://tu.duowan.com/gallery/133510.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/C9/F7/ef8f5eaee689ae3cc034eadf8b472f23.jpg" height="291" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133510.html" target="_blank">质感到气质的还原!大师级CosPlay赏</a> 6天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 2524px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">18条评论</span><span class="fr">11张</span></span>
+			<a href="http://tu.duowan.com/gallery/133509.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/71/00/011fc77976f6925cbb75eed6aea154ba.jpg" height="195" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133509.html" target="_blank">生活知识如何拯救荷叶边领口 不用熨斗也能完成的妙招是？</a> 6天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 2593px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">56条评论</span><span class="fr">12张</span></span>
+			<a href="http://tu.duowan.com/gallery/133508.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/25/98/d6cb5955c0a0256fd3d508047d6f0612.jpg" height="140" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133508.html" target="_blank">让人无法喜欢的动漫宠物 高人气的背后有些负面意见也在所难免</a> 6天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 2636px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">47条评论</span><span class="fr">11张</span></span>
+			<a href="http://tu.duowan.com/gallery/133507.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/95/CF/a419f793ee37cc9134c603d41f30ab9f.jpg" height="259" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133507.html" target="_blank">来自人性的创意设计 趴兔　以图示意是最简单的方法</a> 6天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 2829px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">36条评论</span><span class="fr">11张</span></span>
+			<a href="http://tu.duowan.com/gallery/133506.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/76/7B/4cbed34a015f8b6ea959b77398d81847.jpg" height="119" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133506.html" target="_blank">觉得忧郁时可以做这9件事 希望大家都能开心起来</a> 6天前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 2843px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">789条评论</span><span class="fr">51张</span></span>
+			<a href="http://tu.duowan.com/gallery/133505.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/A5/14/a51451e1f7c0983f909ee2d5537042888973.jpg" height="226" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133505.html" target="_blank">全球搞笑GIF图第1844弹：少侠，你体内有至阳至阴两股真气在涌动，老衲先帮你打通任督二脉</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 2891px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">60条评论</span><span class="fr">11张</span></span>
+			<a href="http://tu.duowan.com/gallery/133486.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/4A/01/0ced1436a4a5d7c3954537cae5c68800.jpg" height="141" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133486.html" target="_blank">最强エロ日剧Top10 原来那么多突破连续剧尺度的过激演出</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 2987px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">15条评论</span><span class="fr">9张</span></span>
+			<a href="http://tu.duowan.com/gallery/133485.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/6C/94/c2df7c022534ead32ada091d412da21e.jpg" height="130" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133485.html" target="_blank">这个萌你把持不住！LOL甜心安妮Cosplay</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3040px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">35条评论</span><span class="fr">13张</span></span>
+			<a href="http://tu.duowan.com/gallery/133484.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/4A/E7/b4a146e35751d2e48305f613deb547db.jpg" height="146" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133484.html" target="_blank">遇见跟自己长得一模一样的陌生人 你们真的不是爹娘出去偷生的吗？</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3142px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">159条评论</span><span class="fr">17张</span></span>
+			<a href="http://tu.duowan.com/gallery/133483.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/6B/FE/95163360e0e13652d796240897e8ba90.jpg" height="237" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133483.html" target="_blank">世界上最贵的原料 比钻石黄金还贵的物品是？</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3197px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">35条评论</span><span class="fr">18张</span></span>
+			<a href="http://tu.duowan.com/gallery/133482.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/62/59/74864b30ddd1df6740f29b6d2ce7ee38.jpg" height="201" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133482.html" target="_blank">喵喵汪汪超治癒失败图 别人的失败就是我的快乐</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3209px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">896条评论</span><span class="fr">50张</span></span>
+			<a href="http://tu.duowan.com/gallery/133481.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/D4/4E/6b1f013cf4b03256e60ed11e148aef12.jpg" height="270" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133481.html" target="_blank">今日囧图第1958期：有人和我说想要烤肉雷姆小姐姐？那就满足你们的要求。</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3296px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">248条评论</span><span class="fr">16张</span></span>
+			<a href="http://tu.duowan.com/gallery/133480.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/A1/66/a1663706890408bb77f5bd169f5187d18093.jpg" height="244" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133480.html" target="_blank">十万个冷知识第362弹</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3471px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">676条评论</span><span class="fr">42张</span></span>
+			<a href="http://tu.duowan.com/gallery/133475.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/BA/EF/baef09fa419bd591cf2a0420ad999a9f2866.jpg" height="202" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133475.html" target="_blank">吐槽囧图集第1084弹：女司机你这样乱发车牌是违法的！</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3490px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">69条评论</span><span class="fr">17张</span></span>
+			<a href="http://tu.duowan.com/gallery/133473.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/79/84/0cca610869497be299a6eb66f3a63a6a.jpg" height="292" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133473.html" target="_blank">约会大作战时崎狂三喵睡裙Cosplay</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3589px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">33条评论</span><span class="fr">23张</span></span>
+			<a href="http://tu.duowan.com/gallery/133472.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/64/43/e948601957c2f1f57f3e1be0803667d8.jpg" height="146" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133472.html" target="_blank">戏剧化的猫咪 表情如此夸张你们有事吗</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3632px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">32条评论</span><span class="fr">12张</span></span>
+			<a href="http://tu.duowan.com/gallery/133471.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/59/62/e73c7931066d5b02004f943de923c79a.jpg" height="136" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133471.html" target="_blank">林中小屋这部电影，几乎致敬了美国所有的经典恐怖电影</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3783px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">20条评论</span><span class="fr">13张</span></span>
+			<a href="http://tu.duowan.com/gallery/133469.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/D1/3F/1abc12615f243cba68ae2ba78a2e33ed.jpg" height="260" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133469.html" target="_blank">创意熊出没注意 在加拿大这方面的名产应该很好买吧？</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3827px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">12条评论</span><span class="fr">27张</span></span>
+			<a href="http://tu.duowan.com/gallery/133468.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/8A/6A/312c6776a89deb7e60c1d8508510fd20.jpg" height="259" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133468.html" target="_blank">被罐头焗豆淹没的日常生活 豆子越看越让人失去食慾</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3874px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">782条评论</span><span class="fr">45张</span></span>
+			<a href="http://tu.duowan.com/gallery/133467.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/3D/77/3d777ca3d50453ac34e34952edfe1d334149.jpg" height="305" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133467.html" target="_blank">全球搞笑GIF图第1843弹：看她揉了26分钟，气球终于破了</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 3878px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">693条评论</span><span class="fr">50张</span></span>
+			<a href="http://tu.duowan.com/gallery/133464.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/65/2B/fc022369a72c7a1c4c76b3f7bcf26b84.jpg" height="183" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133464.html" target="_blank">今日囧图第1957期：“这个....说不说”“算了算了，毕竟是领导...一动不如一静”</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 4135px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">564条评论</span><span class="fr">30张</span></span>
+			<a href="http://tu.duowan.com/gallery/133459.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/EA/C9/8f8293ad1bc109c4d25216c578060df9.gif" height="241" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133459.html" target="_blank">全球搞笑GIF图第1842弹：菜市场的传奇！</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 4171px; left: 236px;"><span class="bg"></span><span class="txt"><span class="fl">678条评论</span><span class="fr">50张</span></span>
+			<a href="http://tu.duowan.com/gallery/133458.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/B0/F1/7a3bd77400206ba6c7180701d750d1e4.jpg" height="342" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133458.html" target="_blank">今日囧图第1956期：星之卡比的开发者们亲手画的卡比</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 4178px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">530条评论</span><span class="fr">30张</span></span>
+			<a href="http://tu.duowan.com/gallery/133448.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/3E/E6/42ead94c44dac5ade8c2d13776ac8e6f.gif" height="189" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133448.html" target="_blank">全球搞笑GIF图第1841弹：国外网友分享有天老婆不在，哈士奇爬上床，躺在老婆平时躺的位置上，假装自己就是女主人。</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 4289px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">711条评论</span><span class="fr">50张</span></span>
+			<a href="http://tu.duowan.com/gallery/133447.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/98/C9/5c1fecd4443e6e8846cc33cfbbe5a29c.jpg" height="195" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133447.html" target="_blank">今日囧图第1955期：不是很懂这家店的菜名</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 4468px; left: 472px;"><span class="bg"></span><span class="txt"><span class="fl">21条评论</span><span class="fr">16张</span></span>
+			<a href="http://www.duowan.com/news/356719717857.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/58/74/5874dd47221826b3f1c16342e2c504a24788.jpg" height="146" /></a>
+			<em><a href="http://www.duowan.com/news/356719717857.html" target="_blank">轻松3分钟：想过一场穷得只剩下钱的人生</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 4495px; left: 0px;"><span class="bg"></span><span class="txt"><span class="fl">917条评论</span><span class="fr">51张</span></span>
+			<a href="http://tu.duowan.com/gallery/133437.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/54/D9/54d90d56c6c0a26c86d48b4a6ec1229a4758.jpg" height="210" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133437.html" target="_blank">全球搞笑GIF图第1840弹：一张图满足我所有的渴望</a> 1星期前上传</em></li>
+								<li class="box masonry-brick" style="position: absolute; top: 4576px; left: 708px;"><span class="bg"></span><span class="txt"><span class="fl">1191条评论</span><span class="fr">50张</span></span>
+			<a href="http://tu.duowan.com/gallery/133434.html" target="_blank"><img src="http://s1.dwstatic.com/group1/M00/F2/54/126906cbfe42e9fefbfc79b50a1b93ee.jpg" height="261" /></a>
+			<em><a href="http://tu.duowan.com/gallery/133434.html" target="_blank">今日囧图第1954期：你以为自己第一眼就看到了，其实你第二眼才看到</a> 1星期前上传</em></li>
+	</ul>
+			<div id="loading" style="text-align: center; display: none;"><img src="http://tu.duowan.com/images/loading.gif?v=3911" width="32" height="32" /></div>
 	</div>
 <script>
 baseUrl = 'http://tu.duowan.com';
