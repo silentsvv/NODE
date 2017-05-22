@@ -47,6 +47,12 @@ function RouterPage () {
   })()
   return page;
 }
+
+// function RouterPage (title,imgSrc,link) {
+//   this.title = title
+//   this.imgSrc = imgSrc
+//   this.link = link
+// }
 var newImgArr = [];
 driver.get('http://tu.duowan.com/tu')
 var source = driver.getPageSource().then(function (src) {
