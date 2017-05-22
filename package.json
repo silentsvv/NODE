@@ -1,7 +1,21 @@
 {
+  "name": "tuku",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node koa.js"
+  },
+  "engines": {
+    "node": "7.6.0"
+  },
+  "author": "silentsvv",
+  "license": "ISC",
   "devDependencies": {
     "cheerio": "^0.22.0",
     "chromedriver": "^2.29.0",
-    "selenium-webdriver": "^3.4.0"
+    "selenium-webdriver": "^3.4.0",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-logger": "2",
+    "koa-router": "next"
   }
 }
