@@ -19,7 +19,7 @@ router.get('/hello', async (ctx) => {
   // let p = api()
   let data = await api({pageNum:0})
   // console.log(data)
-  data = await api({pageNum:1})
+  // data = await api({pageNum:1})
   ctx.body = data
   // console.log(data)
   // ctx.body = data
