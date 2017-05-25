@@ -14,9 +14,10 @@ app.use(bodyparser())
 app.use(router.routes(), router.allowedMethods())
 
 router.get('/hello', async (ctx) => {
-  let p = api()
-  let data = await p
-  console.log(data)
+  // let p = api()
+  let data = await api({pageNum:0})
+  // console.log(data)
+  data = await api({pageNum:1})
   ctx.body = data
   // console.log(data)
   // ctx.body = data
