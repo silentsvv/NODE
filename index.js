@@ -1,4 +1,3 @@
-require('chromedriver');
 var webdriver = require('selenium-webdriver');
 var cheerio = require('cheerio');
 var fs = require('fs')
@@ -52,7 +51,7 @@ var newImgArr = [];
 function p() {
   let p1 = new Promise(function(resolve, reject) {
     driver = new webdriver.Builder()
-      .forBrowser('chrome')
+      .forBrowser('phantomjs')
       .build();
     driver.get('http://tu.duowan.com/tu')
     driver.getPageSource().then(function (src) {
