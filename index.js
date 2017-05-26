@@ -1,7 +1,6 @@
 require('chromedriver');
 var webdriver = require('selenium-webdriver');
 var cheerio = require('cheerio');
-var fs = require('fs')
 
 
 
@@ -53,8 +52,19 @@ var p
 function myTest ({pageNum=0}) {
 
   if(pageNum === 0) {
-    driver = new webdriver.Builder().forBrowser('phantomjs').build()
-    driver.get('http://tu.duowan.com/tu')
+    if(!driver) {
+      driver = new webdriver.Builder().forBrowser('phantomjs').build()
+      driver.manage().timeouts().pageLoadTimeout(100)
+      try {
+        driver.get('http://tu.duowan.com/tu').catch((res) => {
+          console.log(res)
+        })
+      }catch(err) {
+         driver.execute_script("window.stop();")
+      }
+      
+      driver.executeScript("return (document.readyState == 'complete' && jQuery.active == 0)")
+    }
     p = new Promise(function(resolve, reject){
       driver.getPageSource().then(function (src) {
         var html = src
@@ -68,10 +78,15 @@ function myTest ({pageNum=0}) {
             let src = $(this).attr('src')
             let title = parent.find('em a').text()
             let link = parent.find('em a').attr('href')
-            rPage.setTitle(title)
-            rPage.setImgSrc(src)
-            rPage.setLink(link)
-            newImgArr.push(rPage)
+            let isExist = newImgArr.find((item)=>
+              item.title == title
+            )
+            if(!isExist){
+              rPage.setTitle(title)
+              rPage.setImgSrc(src)
+              rPage.setLink(link)
+              newImgArr.push(rPage)
+            }
           })
           console.log(newImgArr.length,"console.log(newImgArr.length)!")
           resolve(newImgArr)
