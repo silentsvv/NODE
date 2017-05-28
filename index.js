@@ -1,6 +1,7 @@
 require('chromedriver');
 var webdriver = require('selenium-webdriver');
 var cheerio = require('cheerio');
+var fs = require('fs')
 
 
 
@@ -134,6 +135,54 @@ function myTest ({pageNum=0}) {
   }
 
   return p
+};
+
+function getPicList (url) {
+  if(!driver) {
+      driver = new webdriver.Builder().forBrowser('phantomjs').build()
+      driver.manage().timeouts().pageLoadTimeout(1000)
+      driver.manage().timeouts().setScriptTimeout(500)
+  }
+  let p1 = new Promise(function(resolve, reject){
+      var imgList = []
+      driver.get(url).catch((err) => { console.log(err) })
+      driver.wait(function() {
+        return driver.findElements(webdriver.By.className('pic-box'))
+      }, 500)
+      driver.getPageSource().then((result) => {
+        fs.writeFile('mes.txt', result, (err) => {
+          if(err) throw err
+          console.log('is saved')
+        })
+        fs.readFile('mes.txt', 'utf-8', (err, data) => {
+          console.log('??????')
+          if(err) throw err
+          var $ = cheerio.load(data)
+          var img = $('.pic-box a').find('img')
+          img.each((i, ele) => {
+            if(ele.attribs.src) {
+              imgList.push(ele.attribs.src)
+            }
+          })
+          console.log(imgList)
+          resolve(imgList)
+        })
+        
+        // var $ = cheerio.load(result)
+        // var img = $('.pic-box')
+        // img.each((index, ele) => {
+        //   console.log(ele)
+        //   console.log($(this))
+        // })
+        
+    })
+  })
+
+  return p1
 }
+
   
-module.exports = myTest
+module.exports = {
+   boxList : myTest,
+   picList : getPicList
+}

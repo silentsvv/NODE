@@ -17,12 +17,28 @@ app.use(router.routes(), router.allowedMethods())
 
 router.get('/hello', async (ctx) => {
   // let p = api()
-  let data = await api({pageNum:0})
+  let data = await api.boxList({pageNum:0})
   // console.log(data)
   // data = await api({pageNum:1})
   ctx.body = data
   // console.log(data)
   // ctx.body = data
+})
+
+router.post('/get', async (ctx) => {
+  let param = ctx.request.body
+  console.log(param)
+  let url = param.url
+  console.log(url)
+  if(url) {
+    let promise= api.picList(url)
+    let data = await promise
+    console.log(data)
+    ctx.body = data
+  }else {
+    ctx.body = "找不到该网页"
+  }
+  console.log(ctx.response)
 })
 
 
