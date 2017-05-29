@@ -63,8 +63,6 @@ function myTest ({pageNum=0}) {
       }catch(err) {
          driver.execute_script("window.stop();")
       }
-      
-      driver.executeScript("return (document.readyState == 'complete' && jQuery.active == 0)")
     }
     p = new Promise(function(resolve, reject){
       driver.getPageSource().then(function (src) {

@@ -1,0 +1,736 @@
+<!DOCTYPE html><html><head><script src="//hm.baidu.com/hm.js?4941f2298273634934f789da00bbabe0"></script><script async="" src="http://www.duowan.com/s/newsPopup/news.json?jsonp1=jsonp1&amp;_=1496044038114"></script><script async="" src="http://tips.duowan.com/tnews?callback=jQuery1102039323049946688116_1496044038112&amp;_=1496044038113"></script><script id="_hiido_internal_script_id_" src="http://hdjs.hiido.com/hiido_internal.js?siteid=tu@duowan"></script><script src="https://hm.baidu.com/hm.js?66ee381f0140ac33122f0051eae9b401"></script>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="baidu-site-verification" content="lQ0u9K4mhFheMSYS">
+<meta http-equiv="mobile-agent" content="format=html5;url=http://tu.duowan.cn/">
+<script>
+(function() {
+	if (/Android|webOS|iPhone|Windows Phone|iPod|BlackBerry|SymbianOS/i.test(navigator.userAgent) && !/[\?&]pc(?:[=&].*|$)/.test(window.location.href)) {
+		var matched = location.href.match(/(.+tu\.duowan)\.com(.+gallery\/\d+\.html)/);
+		if (matched) {
+			location.href = matched[1] + ".cn" + matched[2];
+		}else if(matched = location.href.match(/(.+tu\.duowan)\.com.+tag\/(\d+)\.html/)){
+			//location.href=matched[1] + "/index.php?r=show/mobile&tag=" + matched[2];
+			location.href = matched[1] + ".cn/tag/" + matched[2] + ".html";
+		}else if(location.href.match(/.+tu\.duowan\.com\/tu/)){
+			location.href="http://tu.duowan.cn/";
+		}else if(matched = location.href.match(/(.+tu\.duowan\.com)\/m\/(\w+)/)){
+			location.href='http://tu.duowan.cn/';
+		}
+	}
+	
+	function matchOtherTag(){
+		var tag = 0;
+		if(!/tu\.duowan\.com\/m/.test(window.location.href)) return;
+		
+		if( /m\/xemh/.test(window.location.href) ){
+			tag = 4897;	
+		}else if(/m\/bzmh/.test(window.location.href)){
+			tag = 10607;	
+		}else if(/m\/nhmh/.test(window.location.href)){
+			tag = 5150;		
+		}else if(/m\/jiong/.test(window.location.href)){
+			tag = 37;	
+		}else if(/m\/zkw/.test(window.location.href)){
+			tag = 6314;	
+		}else if(/m\/tucao/.test(window.location.href)){
+			tag = 15203;	
+		}else if(/m\/bxgif/.test(window.location.href)){
+			tag = 9031;	
+		}else if(/m\/meinv/.test(window.location.href)){
+			tag = 32;		
+		}else if(/m\/fzl/.test(window.location.href)){
+			tag = 15787;	
+		}else if(/m\/gaoxiao/.test(window.location.href)){
+			tag = 56;	
+		}else if(/m\/bizhi/.test(window.location.href)){
+			tag = 27462;	
+		}
+		if(tag == 0) return;
+		
+		location.href="http://tu.duowan.com/index.php?r=show/mobile&tag="+tag;
+		
+	}
+})();
+</script>
+<link rel="stylesheet" type="text/css" href="http://tu.duowan.com/images/reset.css?v=391120121203">
+<link rel="stylesheet" type="text/css" href="http://tu.duowan.com/images/show.css?v=391120160826001">
+<link rel="stylesheet" type="text/css" href="http://tu.duowan.com/images/navbar.css?v=391120121203">
+<link rel="stylesheet" type="text/css" href="http://tu.duowan.com/images/update.css?v=391120160311">
+<title>今日囧图第1992期：有些东西不需要教的，从小就会的。_多玩图库</title>
+<meta name="description" content="多玩图库提供今日囧图第1992期：有些东西不需要教的，从小就会的。今日囧图第1992期：有些东西不需要教的，从小就会的。欣赏">
+
+<script type="text/javascript">
+_hiido_wid=["_19cda8a"];
+</script><script src="http://assets.dwstatic.com/b=common/js&amp;f=jquery-1.10.2.min.js,jquery-migrate-1.2.1.min.js,jquery.masonry-2.0.110526.min.js,jquery.lazyload.js,udb.v1.0.js,dww3.min.js&amp;20131020"></script>
+
+<script>
+seajs.use("jquery",function($){$(document.body).on('click','a[href="#"],a[href^="javascript:"]',function(e){e.preventDefault();});});
+</script>
+<link href="http://res.udb.duowan.com/lgn/css/oauth/udbsdk/proxy/udbsdkproxy.min.css" rel="stylesheet" type="text/css"><script charset="utf-8" async="" src="http://assets.dwstatic.com/b=amkit/p/dwtv&amp;f=flash2video.js,ua.js,mp4.js&amp;nm&amp;20150529"></script></head>
+<body style="">
+
+
+<div id="doc">
+    <script>
+$(function(){
+  var msie6 = $.browser == 'msie' && $.browser.version < 7;
+  if (!msie6){
+    $(window).scroll(function(event){
+      var y = $(this).scrollTop();
+      if(y >= 55){
+        $('#header').addClass('fixed');
+      }else{
+        $('#header').removeClass('fixed');
+      }
+    });
+  }
+});
+</script>
+<div id="header">
+	<div id="site-nav">
+			<h1 class="logo">
+				<a href="http://tu.duowan.com" title="多玩图库"></a>
+			</h1>
+			<div class="nav">
+				<ul>
+								
+					<li class="subnav"><a href="http://www.duowan.com" target="_blank">多玩首页</a></li>
+					<li class="subnav"><a href="http://tu.duowan.com">多玩图库</a></li>
+										<li><a href="http://video.duowan.com/" target="_blank">多玩视频</a></li>
+										
+										<li class="subnav">
+						<a class="arrow" href="#" onclick="return false;">热门频道</a>
+						<ul style="display: none;" class="dropdown clearfix">
+														<li>
+								<a href="http://tu.duowan.com/tu">主站</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/lol">英雄联盟</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/DNF">DNF</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/wow">魔兽世界</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/newgame">新游戏</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/jx3">剑网三</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/dn">龙之谷</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/tv">TV</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/psp">PSP</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/wot">坦克世界</a>
+							</li>
+														<li>
+								<a href="http://tu.duowan.com/mm">多玩软妹</a>
+							</li>
+														
+						</ul>
+					</li>
+										<li class="subnav"><a href="#" onclick="return false;">投诉邮箱：banquan@yy.com</a></li>
+				</ul>
+			</div>
+			
+			<div class="search">
+				<!--  
+				<div class="quick-menu" style="display:block">
+					<ul>
+						<li class="subnav">
+						<a href="javascript:;"onClick="document.getElementById('logindiv').submit()" class="login btn-login">安全登录</a>
+						</li>
+					</ul>
+				</div>
+				-->
+				<form method="get" target="_blank" action="http://tu.duowan.com/search.html">
+
+				<input baidusug="1" x-webkit-speech="" size="30" name="word" id="input" autocomplete="on" onfocus="javascript:if(this.value=='请输入搜索词')this.value='';" value="请输入搜索词" type="text">
+
+				<button type="submit">搜索</button>
+                </form>
+			</div>
+
+		</div>
+		<div id="subnav_pk">
+			<ul>
+										<li><a href="http://tu.duowan.com/tu" target="_blank">图库首页</a></li>
+							<li><a href="http://tu.duowan.com/tag/5037.html" target="_blank">今日囧图</a></li>
+							<li><a href="http://tu.duowan.com/m/bxgif" target="_blank">搞笑gif</a></li>
+							<li><a href="http://tu.duowan.com/m/meinv" target="_blank">美女图片</a></li>
+							<li><a href="http://tu.duowan.com/m/bizhi" target="_blank">手机壁纸</a></li>
+							<li><a href="http://tu.duowan.com/m/tucao" target="_blank">吐槽囧图</a></li>
+							<li><a href="http://tu.duowan.com/tag/23515.html" target="_blank">冷知识</a></li>
+							<li><a href="http://tu.duowan.com/tag/25047.html" target="_blank">冷笑话</a></li>
+												<li><a href="http://tu.duowan.com/images/tu_yy/index.html" target="_blank">快速浏览</a></li>
+						<li><a href="http://www.duowan.com/1704/m_357072045736.html" target="_blank">轻松3分钟<em class="hot-video"></em></a></li>
+			</ul>
+		</div>
+	
+</div>
+<script>
+	$(function(){
+		$('#site-nav').find('.subnav').hover(function(){
+			$(this).addClass('hover');
+			$(this).find('.dropdown').show();
+		},function(){
+			$(this).removeClass('hover');
+			$(this).find('.dropdown').hide();
+		});
+		$('#subnav_pk').find('.subnav').hover(function(){
+			$(this).addClass('hover');
+			$(this).find('.dropdown').show();
+		},function(){
+			$(this).removeClass('hover');
+			$(this).find('.dropdown').hide();
+		});
+	});
+</script>
+
+
+		
+	<style>
+<!--
+#header #subnav_pk li a {position: relative;}
+#header #subnav_pk li .icon-new {position: absolute;top:0;right:-10px;}
+#content {margin-top: 0;padding-top: 15;}
+-->
+</style>
+<script type="text/javascript" src="http://tu.duowan.com/images/lego.backtotop.js"></script>
+<div id="show">
+		<div class="title">
+			<h1>今日囧图第1992期：有些东西不需要教的，从小就会的。</h1>
+			<span>(1/3)</span> </div>
+		<div class="tips clearfix">
+			<!-- 面包屑导航{ -->
+			<div class="mod-crumbs"><span class="current-location">当前位置：</span><a href="http://tu.duowan.com">多玩图库</a>
+						<span class="arrow">&gt;</span>查看</div>
+			<!-- }面包屑导航 -->
+			<div class="fr"><a href="http://tu.duowan.com/gallery/134026.html" class="big">翻图模式</a>
+			 
+			</div>
+		</div>
+		<div class="picture-pageshow" id="picture-pageshow">
+			<div class="pic-wrap">
+										<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p1">
+						<img src="http://s1.dwstatic.com/group1/M00/42/3C/a1b3f98133752c4f5a6a11df46af1ca9.png" alt="">
+					</a>
+					<p class="comment">有些东西不需要教的，从小就会的。</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>13条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">想吃</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">按照生物学的说法：“这是本能”   所以啊!**同志,真的不怪我,我只不过舔了一下.为什么要抓我呢？</span>
+																																<span class="mod_tag tag_c1" title="共有4人赞同此观点">两岁还喝母乳,怪不得你脑部肌肉这么发达</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">我就看下我哪里网友</span>
+																																<span class="mod_tag tag_c1" title="共有3人赞同此观点">“两手抓,两手都要硬!”</span>
+																																<span class="mod_tag tag_c1" title="共有23人赞同此观点">我只是饿了想吃饭,这有错吗</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p2">
+						<img src="http://s1.dwstatic.com/group1/M00/2B/94/cb376a3b75c6870da9c5c4b5ec60f32b.jpg" alt="">
+					</a>
+					<p class="comment">“其实我是霍格沃茨来送录取通知书的....</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>15条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">你觉得举报功能有用么</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">白胡子？什么种？</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">东莞不是中原地区</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">“放归山林”是把骨头丢到山林里吗？</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">什么？要请我去当教兽？一人之下,万人之上？可是我还是小孩子耶,然后只是比在做的各位都优越罢了~[微笑]</span>
+																																<span class="mod_tag tag_c1" title="共有3人赞同此观点">对不起,我也没控制住</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p3">
+						<img src="http://s1.dwstatic.com/group1/M00/46/E4/9155518f08f78062f903d2740374104c.jpg" alt="">
+					</a>
+					<p class="comment">Miu Miu 橡胶压花凉拖，单价约1792 RMB</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>9条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">Miu Miu 橡胶压花凉拖,单价约1792 RMB</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">包租婆,没水了</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">设计附加值在里面,成本2000的iphone花5000买一样的道理</span>
+																																<span class="mod_tag tag_c1" title="共有4人赞同此观点">究极诈骗？</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">原谅头饰BUFF加成原谅全世界</span>
+																																<span class="mod_tag tag_c1" title="共有6人赞同此观点">防御+1800</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p4">
+						<img src="http://s1.dwstatic.com/group1/M00/A7/7F/f6e4debc475e4312a743a58952da70f5.jpg" alt="">
+					</a>
+					<p class="comment">被你发现了</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>9条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有1人赞同此观点">宁德网友你还记得那个充满原谅的瀑布吗？上一期的动图</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">其中还有各种重口味的本子比如**比如**比如***</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">我有你老婆好几个G的本子 主角都不是你</span>
+																																<span class="mod_tag tag_c1" title="共有17人赞同此观点">idol不就是个普通的英文单词,哪有什么棒子男偶像的特指....”矢泽我是我的爱豆”这种说法当然没有咯,妮可是我的</span>
+																																<span class="mod_tag tag_c1" title="共有13人赞同此观点">外甥为啥叫哥呢</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">爱豆虽然是音译,但是在国内通常指的是棒子男偶像吧.“”矢泽我是我的爱豆”有这样的说法么？</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p5">
+						<img src="http://s1.dwstatic.com/group1/M00/A8/65/1c75e903472ab70cfde0d867b40c35b6.png" alt="">
+					</a>
+					<p class="comment">不抖尿不出来啊</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>4条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有1人赞同此观点">不抖射不出来啊!……还有救么？</span>
+																																<span class="mod_tag tag_c1" title="共有2人赞同此观点">涉嫌虐待了好吗.狗绳绑的是嘴巴</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">我倒比较好奇为啥栓鼻子</span>
+																																<span class="mod_tag tag_c1" title="共有26人赞同此观点">古天乐签名</span>
+																							</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p6">
+						<img src="http://s1.dwstatic.com/group1/M00/D9/61/9597801608c37c6b064653f94c59f18c.jpg" alt="">
+					</a>
+					<p class="comment">吃货的衣服。。</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>4条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">热不热？</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">我依稀记得我上次的评论是,这面包有腋下的香味</span>
+																																<span class="mod_tag tag_c1" title="共有11人赞同此观点">嗨呀,好·····等等,我再看看,吃不到那面包,好气</span>
+																																<span class="mod_tag tag_c1" title="共有5人赞同此观点">宝强是你吗？</span>
+																							</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p7">
+						<img src="http://s1.dwstatic.com/group1/M00/A2/23/a50998f68024b0e1677a8d821be6f831.jpg" alt="">
+					</a>
+					<p class="comment">打团呢</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>8条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">打口碟[嘘]</span>
+																																<span class="mod_tag tag_c1" title="共有4人赞同此观点">你不穿西装打你妹的团  你们这些肥宅</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">打屁屁</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">打……包……[大笑]</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">社会上那么多人知道召唤师峡谷,应该可以算作一个词汇了</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">少个字 打**就对了</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p8">
+						<img src="http://s1.dwstatic.com/group1/M00/DA/00/8a285fbf26d291b5cb1a780b92712fd0.png" alt="">
+					</a>
+					<p class="comment">第一次世界大战德国制造的防弹衣</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>11条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">玩个战地就知道了,差不多就这样的</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">这种装甲不能摆角度</span>
+																																<span class="mod_tag tag_c1" title="共有2人赞同此观点">你在战壕里和这玩意打白刃战你猜谁会赢？</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">所有子弹都朝两侧直角反弹...</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">扯淡,穿这玩意儿你还想爬战壕？</span>
+																																<span class="mod_tag tag_c1" title="共有5人赞同此观点">摆一摆角度   跳蛋</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p9">
+						<img src="http://s1.dwstatic.com/group1/M00/F5/CA/d2b51dd7ca7eab062e9dfca70466ff6b.jpg" alt="">
+					</a>
+					<p class="comment">东西方英雄对比</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>19条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">power ranger有霹雳游侠的感觉？</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">放个花千骨上去？</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">东方的代表不应该是美少女战士吗</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">就造型来看 左边明显好看一点 右边就是个炮灰造型</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">可以用哪吒啊(笑)</span>
+																																<span class="mod_tag tag_c1" title="共有12人赞同此观点">恐龙战队漫画作者及演员就是美国的</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p10">
+						<img src="http://s1.dwstatic.com/group1/M00/BE/CA/a4ebe08732d291142bdca1f95732c8c4.jpg" alt="">
+					</a>
+					<p class="comment">对，就是这里，打我啊！</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>5条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">这是阿达姆松吧</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">被子被S鸡威胁了？[偷笑]</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">法克米!</span>
+																																<span class="mod_tag tag_c1" title="共有11人赞同此观点">尺寸暴漏</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">骚想干</span>
+																							</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p11">
+						<img src="http://s1.dwstatic.com/group1/M00/66/95/4251e284feb89ef3007444140b032425.png" alt="">
+					</a>
+					<p class="comment">发大水了</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>8条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有7人赞同此观点">这码打的真好...完全看不出是上面@的那个人</span>
+																																<span class="mod_tag tag_c1" title="共有3人赞同此观点">然而这并不是死盖</span>
+																																<span class="mod_tag tag_c1" title="共有27人赞同此观点">这算是黑什么.</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">夏天啊,迦勒底的热裤要来了</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">没打成大妈,还有得救</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">- =   打错,打码...</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p12">
+						<img src="http://s1.dwstatic.com/group1/M00/BB/78/8cd62dff1007cf2c0facda5b63aa6b15.jpg" alt="">
+					</a>
+					<p class="comment">防狼必备</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>8条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有1人赞同此观点">弱智???</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">看你妈看 你妈死了 南宁仙子限定版</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">拟害[偷笑]</span>
+																																<span class="mod_tag tag_c1" title="共有3人赞同此观点">对的,不打女人的男人也配叫男子汉吗？就是打!一天三顿大,心烦打,开心也打</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">更加激起了欲望</span>
+																																<span class="mod_tag tag_c1" title="共有14人赞同此观点">没看到脸之前,我是不会拔出我的大雕的</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p13">
+						<img src="http://s1.dwstatic.com/group1/M00/FB/C3/a410562924c53183605a279d144326a7.jpg" alt="">
+					</a>
+					<p class="comment">给老公的惊喜</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>16条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">审题不认真……</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">她的头发怎么越剪越长的</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">有这种老婆都要乐死</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">醒醒你没有女朋友</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">蛤？一言不合就膜起来了</span>
+																																<span class="mod_tag tag_c1" title="共有3人赞同此观点">卧槽,差点我就信了!</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p14">
+						<img src="http://s1.dwstatic.com/group1/M00/D6/69/2dcd266bdef71dc83cbf3be379a74690.png" alt="">
+					</a>
+					<p class="comment">果然还是自家的电饭煲煮的饭好吃</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>9条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">一言不合就飙车 嗯~  一定是个光头</span>
+																																<span class="mod_tag tag_c1" title="共有8人赞同此观点">P不P是P车D牌,大4家8散1了吧</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">肛是肛了 就是不知道有没有好</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">哪里有刚好？ 对了 我知道一家眼科医院..</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">那为什么要用“刚好”这个词儿？</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">今天早上刚修好一个,但不是YJ系列的.</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p15">
+						<img src="http://s1.dwstatic.com/group1/M00/B4/1C/a79f160786ad32cda56e6b2c4731fe9d.png" alt="">
+					</a>
+					<p class="comment">还挺实用的。</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>8条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">有头盔式面罩的,一个记得50多,黑心老板太坑了</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">生活不易...大热天搞电焊要穿得严严实实的</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">里面带的是墨镜,别问我为什么知道</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">袋子下面再套一个不就行了</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">袋子防不了闪光,强光下眼睛会被照伤的</span>
+																																<span class="mod_tag tag_c1" title="共有5人赞同此观点">掏出的两个洞加了烟熏玻璃</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p16">
+						<img src="http://s1.dwstatic.com/group1/M00/F9/93/e67a2649c68f08f1734e46e0bc849561.png" alt="">
+					</a>
+					<p class="comment">还真会享受啊。</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>6条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有2人赞同此观点">小孩子那么宠真的好吗,这个小姑娘难道就没有考虑下爸爸的感受,快起来让爸爸试试什么感觉</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">欠操</span>
+																																<span class="mod_tag tag_c1" title="共有5人赞同此观点">是的,此乃为兵家必争之地~[微笑]</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">真的要当公主养么？</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">带孩子日常...</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">沙发空缺中,快来抢把~</span>
+																							</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p17">
+						<img src="http://s1.dwstatic.com/group1/M00/CA/B0/a12f170f654c0728439f72e4d7048613.jpg" alt="">
+					</a>
+					<p class="comment">好歹还能拍照发个朋友圈</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>12条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">不交税还想要地皮？</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">文盲</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">样板房</span>
+																																<span class="mod_tag tag_c1" title="共有2人赞同此观点">永远？蛤？明年不交税你试试~永远~~外国的月亮真圆~赫!!!呸!</span>
+																																<span class="mod_tag tag_c1" title="共有7人赞同此观点">没什么意义,美国的地持续交税才是你的,不交收回</span>
+																																<span class="mod_tag tag_c1" title="共有2人赞同此观点">好便宜~[微笑]</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p18">
+						<img src="http://s1.dwstatic.com/group1/M00/95/C1/4b0bb6c84be99f9b0b5edff3334a66e5.jpg" alt="">
+					</a>
+					<p class="comment">恍然大悟了。。</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>6条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">同感,在老家休息半个月,除了到一水库夜钓花了200+饵料200,基本水电费外加伙食费总共才150[大笑]</span>
+																																<span class="mod_tag tag_c1" title="共有4人赞同此观点">因为你比他宅太多!</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">老衲没上班的时候一个月1300上下,上班一个月光盒饭就上千</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">救你这智商,带你走当储备粮以备不时之需？饿了舔一舔？[偷笑]</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">加班也是同样道理吧</span>
+																																<span class="mod_tag tag_c1" title="共有55人赞同此观点">我刚好相反,不上班时一个月基本上只花2000左右(包括伙食费,电费,网费)；上班后一个月至少要花8千多,各种饭局,各种聚会；而且还不包括每月至少1600左右的汽油钱和每月600的停车费,还有时不时某些同事的各种喜事.上班给我的感觉是：你是叫我出来花钱的吧？</span>
+																							</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p19">
+						<img src="http://s1.dwstatic.com/group1/M00/C0/9A/6ee0a7f9916cb9156d2cdfd5ed917e6a.jpg" alt="">
+					</a>
+					<p class="comment">据说恐龙比较近似鸡……</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>8条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">鸡腿我一顿能啃3个,恐龙腿一条我估计够我半个月的,还得是小型恐龙[衰]</span>
+																																<span class="mod_tag tag_c1" title="共有3人赞同此观点">应该是鸡近似恐龙~残暴无人性,以吞噬生命为乐~[微笑]</span>
+																																<span class="mod_tag tag_c1" title="共有2人赞同此观点">最烦你这种把游戏和现实扯到一起还觉得好玩的人</span>
+																																<span class="mod_tag tag_c1" title="共有18人赞同此观点">英雄无敌？？</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">凤凰,雷鸟</span>
+																																<span class="mod_tag tag_c1" title="共有2人赞同此观点">恐龙有一种就是鸟脚类,现在所有的鸟类都是恐龙的后代,没有例外</span>
+																															</div>
+						</div>
+					</div>
+									</div>
+							<div class="pic-box">
+					<a target="_blank" href="http://tu.duowan.com/gallery/134026.html#p20">
+						<img src="http://s1.dwstatic.com/group1/M00/49/A1/c5443afbf7e609efcfd58b2733b82585.png" alt="">
+					</a>
+					<p class="comment">看的我不敢超车</p>
+															<div class="note-comment">
+						<div class="inner">
+							<h3>6条评论</h3>
+							<div class="content">
+																															<span class="mod_tag tag_c1" title="共有0人赞同此观点">我一广东的为什么飞到南昌去了</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">[微笑]为什么都是踩</span>
+																																<span class="mod_tag tag_c1" title="共有3人赞同此观点">V字仇杀队面具象征着自由</span>
+																																<span class="mod_tag tag_c1" title="共有2人赞同此观点">革命军</span>
+																																<span class="mod_tag tag_c1" title="共有0人赞同此观点">也有可能是只shadow</span>
+																																<span class="mod_tag tag_c1" title="共有1人赞同此观点">一般拥有这种面具的,都是91的大手</span>
+																							</div>
+						</div>
+					</div>
+									</div>
+						<!-- 
+				<div class="pic-box">
+					<img src="http://duowan.pro/200x300" alt="">
+					<p class="comment">是图片评论这里是图片评论这里是图片评论这里是图片评论这里是图片</p>
+					<div class="note-comment">
+						<div class="inner">
+							<h3>28条评论</h3>
+							<div class="content">
+								<span class="mod_tag tag_c1" title="共有2586人赞同此观点">怎么办，萌死了~</span><span class="mod_tag tag_c1" title="共有718人赞同此观点">可爱死啦！！</span><span class="mod_tag tag_c1" title="共有335人赞同此观点">很好，很强大！</span><span class="mod_tag tag_c2" title="共有250人赞同此观点">好卡哇伊的狗狗</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				-->
+			</div>
+			<!-- 
+			<div class="rounded center">
+			    <div class="mod-page">
+			        <a href="#" rel="prev" title="上一页">上一页</a>
+			        <a href="#" title="已经是当前页" class="current">1</a>
+			        <a href="#" title="第2页">2</a>
+			        <a href="#" title="第3页">3</a>
+			        <a href="#" title="第4页">4</a>
+			        <a href="#" title="第5页">5</a>
+			        <a href="#" title="第16页">16</a>
+			        <a href="#" title="第17页">17</a>
+			        <a href="#" title="第18页">18</a>
+			        <a href="#" title="第19页">19</a>
+			        <a href="#" title="第200页">200</a>
+			        <a href="#" rel="next" title="下一页">下一页</a>
+			    </div>
+			</div>
+			-->
+			<div class="rounded center"><div class="mod-page" id="yw0"><a class=" current" href="/scroll/134026.html">1</a>
+<a class="" href="/scroll/134026/2.html">2</a>
+<a class="" href="/scroll/134026/3.html">3</a></div></div>			<!--  
+			<div class="ad"><script src=" http://market.duowan.com/duowan/250017789890.js"></script></div>
+			-->
+			<script type="text/javascript">
+				/*
+				$("#picture-pageshow .pic-box img,video").mousemove(function(e){
+					$(this).parents(".pic-box").find('.note-comment').css({
+						top: e.pageY - 90 + 10,
+						left: e.pageX - $(this).parents(".pic-box").offset().left +10
+					});
+				})
+				$("#picture-pageshow .pic-box img,video").hover(function() {
+					// Stuff to do when the mouse enters the element;
+					$(this).parents(".pic-box").find('.note-comment').css('visibility', 'visible');
+				}, function() {
+					// Stuff to do when the mouse leaves the element;
+					$(this).parents(".pic-box").find('.note-comment').css('visibility', 'hidden');
+				});
+				*/
+				$("#picture-pageshow").on("mouseenter", ".pic-box img,.pic-box video", function() {
+					$(this).parents(".pic-box").find('.note-comment').css('visibility', 'visible');
+				}).on("mouseleave", ".pic-box img,.pic-box video", function() {
+					$(this).parents(".pic-box").find('.note-comment').css('visibility', 'hidden');
+				});
+				$("#picture-pageshow").on("mousemove", ".pic-box img,.pic-box video", function(e) {
+					$(this).parents(".pic-box").find('.note-comment').css({
+						top: e.pageY - 90 + 10,
+						left: e.pageX - $(this).parents(".pic-box").offset().left +10
+					});
+				})
+
+			</script>
+		</div>
+	</div>
+<a href="javascript:void(0)" id="backtotop">返回顶部</a>
+<script>
+	$(function() {
+		var videoEnable = !!(document.createElement('video').canPlayType);
+		$(".pic-box-item").each(function(i, e) {
+			var domStr;
+			if(videoEnable && $(e).attr("data-mp4") != "") {
+				domStr = '<video loop="loop" autoplay style="display:block;margin:auto"><source src="' + $(e).attr("data-mp4") + '" type="video/mp4"></video>';
+			} else {
+				domStr = '<img src="' + $(e).attr("data-img") + '" alt="">';
+			}
+			$(e).replaceWith(domStr);
+		})
+	})
+</script>
+<script>
+var timeId = null;
+jQuery(".original").hover(function(){
+	$(this).siblings(".mod-tips").show();
+}, function(){
+	var _self = $(this);
+	timeId = setTimeout(function(){
+		_self.siblings(".mod-tips").hide();
+	}, 200);
+});
+
+jQuery(".comment .mod-tips").hover(function(){
+	clearTimeout(timeId);
+}, function(){
+	$(this).hide();
+});
+jQuery(".root img").hover(function(){
+	jQuery(this).siblings(".mod-tips").show();
+}, function(){
+	jQuery(this).siblings(".mod-tips").hide();
+});
+
+//回到顶部
+LEGO.backToTop("#backtotop",{scrollEffect:false});
+</script>
+<script src="http://www.duowan.com/public/s/market_count.js" type="text/javascript"></script>
+</div>
+
+
+
+
+<script>
+$("#main img").lazyload({effect : "fadeIn"});
+</script>
+
+
+<script type="text/javascript" src="http://www.duowan.com/assets/js/duowanFooter.js" charset="utf-8"></script><style>.dwCommonFooter {clear:both;width:100%;margin:0 auto;padding:25px 0;background: #222;color: #666;font-size:12px;}.dwCommonFooter img{width:auto}.dwCommonFooter__split {opacity: .6;}.dwCommonFooter__row {margin:0 auto 8px;text-align:center;line-height:1;}.dwCommonFooter__row p {margin-bottom:8px;}.dwCommonFooter a {margin:0 5px;color: #666;}.dwCommonFooter a:hover {color: #8e8e8e;}.dwCommonFooter__highlight {color:#F40;}.dwCommonFooter__row--approve {padding-top: 5px;margin-bottom: 38px;}.dwCommonFooter__row--approve i, .dwCommonFooter__row--logo a {display:inline-block;*zoom:1;*display:inline;background-image: url("http://pub.dwstatic.com/common/img/footer-sprite.png?20151231");background-repeat:no-repeat;}.dwCommonFooter__row--approve i {vertical-align: -4px;margin-right: 5px;margin-left: 12px;}.dwCommonFooter__row--approve .approveIcon1 {width: 20px; height: 20px; background-position: -0px -92px;}.dwCommonFooter__row--approve .approveIcon2 {width: 16px; height: 20px; background-position: -24px -92px;}.dwCommonFooter__row--approve .approveIcon3 {width: 20px; height: 20px; background-position: -44px -92px;}.dwCommonFooter__row--approve .approveIcon4 {width: 18px; height: 18px; background-position: -92px -92px;}.dwCommonFooter__row--approve .approveIcon5 {width: 20px; height: 20px; background-position: -68px -92px;}.dwCommonFooter__row--approve .approveIcon6 {width: 20px; height: 17px; background-position: -114px -92px;}.dwCommonFooter__row--logo a {margin: 0 20px;font-size: 0;line-height:0;vertical-align: top;overflow: hidden;}.dwCommonFooter__logoSplit {height: 34px;width: 1px; margin-top: 8px;line-height: 34px;overflow: hidden;display:inline-block;*zoom:1;*display:inline;vertical-align: top;background-color: #3d3d3d;}.dwCommonFooter__huanju {width: 115px; height: 42px; margin-top: 2px; background-position: -0px -0px;}.dwCommonFooter__huyu {width: 166px; height: 41px; background-position: -119px -0px;}.dwCommonFooter__row--logo .dwCommonFooter__huanju {margin-top: 2px;}.dwCommonFooter--white {background: #fff;color: #999;}.dwCommonFooter--white a {color: #999;}.dwCommonFooter--white a:hover {color: #666;}.dwCommonFooter--white .dwCommonFooter__logoSplit {background-color: #ccc;}.dwCommonFooter--white .dwCommonFooter__huanju {background-position: -0px -46px;}.dwCommonFooter--white .dwCommonFooter__huyu {background-position: -119px -45px;}</style>
+<div class="dwCommonFooter"><div class="dwCommonFooter__row"><a href="http://www.huanju.cn/s/introduction.html" target="_blank">关于欢聚</a><span class="dwCommonFooter__split">|</span><a href="http://hr.yy.com/" target="_blank">欢聚招聘</a><span class="dwCommonFooter__split">|</span><a href="http://www.huanju.cn/s/contact.html" target="_blank">联系欢聚</a><span class="dwCommonFooter__split">|</span><a href="http://www.huanju.cn/s/links.html" target="_blank">友情链接</a><span class="dwCommonFooter__split">|</span><a href="https://ad.duowan.com" target="_blank">自助广告投放</a><span class="dwCommonFooter__split">|</span><a href="http://www.huanju.cn/s/contact.html" target="_blank">广告热线：020-29162315</a><span class="dwCommonFooter__split">|</span><a href="http://www.yy.com/go.html#10" target="_blank">客服频道：<strong class="dwCommonFooter__highlight">10</strong></a><span class="dwCommonFooter__split">|</span><a href="http://kf.yy.com" target="_blank">YY客服中心</a><span class="dwCommonFooter__split">|</span><a href="http://www.huanju.cn/1207/m_205349693256.html" target="_blank">隐私权保护政策</a><span class="dwCommonFooter__split">|</span><a href="http://www.huanju.cn/1207/m_205353486825.html" target="_blank">版权保护投诉指引</a><span class="dwCommonFooter__split">|</span><a href="http://www.100.com" target="_blank">100教育</a></div><div class="dwCommonFooter__row"><p><span class="dwCommonFooter__txt" target="_blank">增值电信业务经营许可证</span><a href="http://assets.dwstatic.com/common/docs/B2-20050785.jpg">粤B2-20050785</a><a href="http://assets.dwstatic.com/common/docs/B2-20120129.jpg" target="_blank">B2-20120129</a><span class="dwCommonFooter__split">|</span><a href="http://assets.dwstatic.com/common/docs/1910441.jpg" target="_blank">视听许可证1910441号</a><span class="dwCommonFooter__split">|</span><a href="http://assets.dwstatic.com/common/docs/1712-302.jpg?1229" target="_blank">粤网文[2015]1712-302号</a><span class="dwCommonFooter__split">|</span> <span class="dwCommonFooter__txt">举报邮箱：dwkf@yy.com</span> <span class="dwCommonFooter__split">|</span> <span class="dwCommonFooter__txt">举报电话：020-82120010</span> <span class="dwCommonFooter__split">|</span> <span class="dwCommonFooter__txt">联系方式：020-29838437</span> </p><p><a href="http://www.miitbeian.gov.cn" target="_blank">粤ICP备09075143号</a><span class="dwCommonFooter__split">|</span><a href="http://assets.dwstatic.com/common/docs/4401060100548.jpg" target="_blank">穗公网监备案证第4401060100548号</a><span class="dwCommonFooter__split">|</span><a href="http://www.gdca.gov.cn/" target="_blank">广东省通信管理局</a><span class="dwCommonFooter__split">|</span><a href="http://assets.dwstatic.com/common/docs/014.jpg" target="_blank">网络出版服务许可证</a><span class="dwCommonFooter__split">|</span><a href="http://assets.dwstatic.com/common/docs/01745.jpg" target="_blank">节目制作经营许可证</a><span class="dwCommonFooter__split">|</span><a rel="nofollow" href="javascript:void(0)"><img src="http://www.beian.gov.cn/img/ghs.png" style="vertical-align: middle">粤公网安备 44011302000068号</a></p><p><span class="dwCommonFooter__txt">广州华多网络科技有限公司 © 2005-2017 Duowan.com 版权所有</span></p></div><div class="dwCommonFooter__row dwCommonFooter__row--approve"><a href="http://guangzhou.cyberpolice.cn/netalarm/netalarm/wangjian_index.jsp" target="_blank"><i class="approveIcon1"></i>广州网络警察报警平台</a><a href="http://210.76.65.188/newwebsite/main.jsp?id=4401&amp;adir=&amp;wy=1" target="_blank"><i class="approveIcon2"></i>公共信息安全网络监察</a><a href="http://netadreg.gzaic.gov.cn/ntmm/WebSear/WebLogoPub.aspx?logo=440106106022005041100016" target="_blank"><i class="approveIcon3"></i>工商网监红盾认证</a><a href="http://315web.duowan.com/index.jsp" target="_blank"><i class="approveIcon4"></i>消费维权服务站</a><a href="http://www.net.china.com.cn/txt/2015-01/20/content_7622927.htm" target="_blank"><i class="approveIcon5"></i>网络敲诈有偿删帖</a><a href="http://www.12377.cn/" target="_blank"><i class="approveIcon6"></i>中国互联网举报中心</a></div><div class="dwCommonFooter__row dwCommonFooter__row--logo"><a class="dwCommonFooter__huanju" href="http://www.huanju.cn/" target="_blank">欢聚时代</a></div></div>
+<script src="http://www.duowan.com/duowan.js"></script><script src="http://www.duowan.com/public/s/market_count.js"></script><script src="http://www.duowan.com/s/statistics.js"></script>
+<script src="http://pub.dwstatic.com/p/2017dw/1.1.0/common/newsPopup/newsPopup_f0e07cd.js"></script>
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = '//hm.baidu.com/hm.js?4941f2298273634934f789da00bbabe0'; 
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div id="udbsdk_login" class="udbsdk_login"><div class="udbsdk_close"><a href="javascript:" onclick="UDBSDKProxy.hide_div();return false;" title="关闭" class="udbsdk_href"></a>&nbsp;&nbsp;</div><iframe id="udbsdk_frm" class="udbsdk_frm" allowtransparency="true" src="about:blank" frameborder="0" scrolling="no"></iframe></div><div style="width:0px;height:0px;display:none;"><iframe id="udbsdk_deleteCookieFrm" src="about:blank" frameborder="0" scrolling="no" style="width:0px;height:0px;"></iframe></div></body></html>
